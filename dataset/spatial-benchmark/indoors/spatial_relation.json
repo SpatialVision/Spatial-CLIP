@@ -1,0 +1,521 @@
+[ {
+    "id": 101,
+    "image": "101.jpg",
+    "captions": [
+        "The white garbage can is under the wooden table.",
+        "The white garbage can is next to the wooden table.",
+        "The white garbage can is behind the wooden table.",
+        "The white garbage can is between the wooden table and the black chair."
+    ],
+    "answer": 1,
+    "scene_id": "scene0000_00",
+    "type": ""
+},
+{
+    "id": 102,
+    "image": "102.jpg",
+    "captions": [
+        "The television is hanging on the wall.",
+        "The television is hanging outside the cabinet.",
+        "The television is put inside the cabinet.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0000_00",
+    "type": ""
+},
+{
+    "id": 103,
+    "image": "103.jpg",
+    "captions": [
+        "The green plant is in the middle of the sofas.",
+        "The green plant is partially blocked by the sofas.",
+        "The green plant is in front of the sofas.",
+        "The green plant is behind the sofas at a distance."
+    ],
+    "answer": 3,
+    "scene_id": "scene0001_00",
+    "type": ""
+},
+{
+    "id": 104,
+    "image": "104.jpg",
+    "captions": [
+        "The light is directly above the television.",
+        "The light is hanging on the wall.",
+        "The light is hanging on a horizontal bar in the middle of the room.",
+        "The light is hanging from the ceiling."
+    ],
+    "answer": 2,
+    "scene_id": "scene0002_00",
+    "type": ""
+},
+{
+    "id": 105,
+    "image": "105.jpg",
+    "captions": [
+        "The white closet is to the right of the wooden door.",
+        "The white closet is in front of the wooden door.",
+        "The white closet is to the left of the wooden door.",
+        "The white closet is in touch with the wooden door."
+    ],
+    "answer": 1,
+    "scene_id": "scene0002_00",
+    "type": ""
+},
+{
+    "id": 106,
+    "image": "106.jpg",
+    "captions": [
+        "The book shelf is in front of the door.",
+        "The book shelf is in the center of the room.",
+        "The book shelf is leaning against the door.",
+        "The book shelf is leaning against the wall."
+    ],
+    "answer": 3,
+    "scene_id": "scene0005_00",
+    "type": ""
+},
+{
+    "id": 107,
+    "image": "107.jpg",
+    "captions": [
+        "The table is in contact with the brown cabinet.",
+        "The table and the brown cabinet are not in contact.",
+        "The table and the brown cabinet are away from each other.",
+        ""
+    ],
+    "answer": 1,
+    "scene_id": "scene0005_00",
+    "type": ""
+},
+{
+    "id": 108,
+    "image": "108.jpg",
+    "captions": [
+        "The chair is completely under the table.",
+        "The chair is partially under the table.",
+        "The chair is not placed under the table at all.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0011_00",
+    "type": ""
+},
+{
+    "id": 109,
+    "image": "109.jpg",
+    "captions": [
+        "The chair further away from the camera is completely placed on the carpet.",
+        "The chair further away from the camera is only partially placed on the carpet.",
+        "The chair further away from the camera is not on the carpet at all.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0012_00",
+    "type": ""
+},
+{
+    "id": 110,
+    "image": "110.jpg",
+    "captions": [
+        "The coffee table is behind all four chairs.",
+        "The wooden coffee table is farther from the camera than the four chairs.",
+        "The coffee table is in front of all four chairs.",
+        "The coffee table is surrounded by the four chairs."
+    ],
+    "answer": 3,
+    "scene_id": "scene0013_01",
+    "type": ""
+},
+{
+    "id": 111,
+    "image": "111.jpg",
+    "captions": [
+        "All three tables in the picture are parallel.",
+        "Only the two tables closer to the camera are parallel to each other.",
+        "Only the two tables farther from the camera are parallel to each other.",
+        "All three tables in the picture are not parallel to each other."
+    ],
+    "answer": 1,
+    "scene_id": "scene0015_00",
+    "type": ""
+},
+{
+    "id": 112,
+    "image": "112.jpg",
+    "captions": [
+        "Both two desks are in touch with the wall.",
+        "Neither two desks are in touch with the wall.",
+        "Only the desk closer to the camera is in touch with the wall.",
+        "Only the desk further from the camera is in touch with the wall."
+    ],
+    "answer": 2,
+    "scene_id": "scene0015_00",
+    "type": ""
+},
+{
+    "id": 113,
+    "image": "113.jpg",
+    "captions": [
+        "Both chairs are only partially on the carpet.",
+        "Both chairs are completely on the carpet.",
+        "The closer chair is partially on the carpet while the further chair is completely on the carpet.",
+        "The further chair is partially on the carpet while the closer chair is completely on the carpet."
+    ],
+    "answer": 1,
+    "scene_id": "scene0021_00",
+    "type": ""
+},
+{
+    "id": 114,
+    "image": "114.jpg",
+    "captions": [
+        "The round wooden table is facing the door.",
+        "The round wooden table is to the left of the door.",
+        "The round wooden table is located directly in front of the door.",
+        ""
+    ],
+    "answer": 1,
+    "scene_id": "scene0022_01",
+    "type": ""
+},
+{
+    "id": 115,
+    "image": "115.jpg",
+    "captions": [
+        "The ceiling lights are hung higher than the cabinet.",
+        "The ceiling light hangs just above the edge of the table.",
+        "The ceiling light hangs just above the center of the table.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0024_00",
+    "type": ""
+},
+{
+    "id": 116,
+    "image": "116.jpg",
+    "captions": [
+        "All the sofas form a circle.",
+        "All the sofas form a rectangle",
+        "All the sofas form an oval",
+        "All sofas are arranged randomly"
+    ],
+    "answer": 1,
+    "scene_id": "scene0031_00",
+    "type": ""
+},
+{
+    "id": 117,
+    "image": "117.jpg",
+    "captions": [
+        "The blue mattress is placed higher than the wooden desk on the left.",
+        "The blue mattress is placed lower than the wooden desk on the left.",
+        "The mattress is placed at the same height as the desk on the left.",
+        ""
+    ],
+    "answer": 0,
+    "scene_id": "scene0032_00",
+    "type": ""
+},
+{
+    "id": 118,
+    "image": "118.jpg",
+    "captions": [
+        "The chairs in the picture form a straight line.",
+        "The chairs in the picture form a circle.",
+        "The chairs in the picture form a rectangle.",
+        "The chairs in the picture are randomly placed."
+    ],
+    "answer": 1,
+    "scene_id": "scene0037_00",
+    "type": ""
+},
+{
+    "id": 119,
+    "image": "119.jpg",
+    "captions": [
+        "The desk lamp is placed in the center of the table.",
+        "This desk lamp is placed on the side of the table away from the wall.",
+        "The desk lamp is placed in the corner of the table.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0039_00",
+    "type": ""
+},
+{
+    "id": 120,
+    "image": "120.jpg",
+    "captions": [
+        "The light on the wall is at the same height as the camera.",
+        "The light on the wall is higher than the camera.",
+        "The light on the wall is lower than the camera.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0044_01",
+    "type": ""
+},
+{
+    "id": 121,
+    "image": "121.jpg",
+    "captions": [
+        "The display is hung on the wall behind.",
+        "The display is hung on the wooden wardrobe.",
+        "The monitor is placed on the bedside table.",
+        "The display is supported in the air by a bracket.."
+    ],
+    "answer": 3,
+    "scene_id": "scene0046_00",
+    "type": ""
+},
+{
+    "id": 122,
+    "image": "122.jpg",
+    "captions": [
+        "The chair farthest from the camera is right next to the table.",
+        "The chair farthest from the camera is placed right under the windows.",
+        "The chair farthest from the camera is placed in the corner of the room.",
+        "The chair farthest from the camera is closer to the table than the windows."
+    ],
+    "answer": 2,
+    "scene_id": "scene0048_00",
+    "type": ""
+},
+{
+    "id": 123,
+    "image": "123.jpg",
+    "captions": [
+        "The red toolbox and the blue toolbox are placed on the same level.",
+        "The red toolbox is placed on a higher level than the blue toolbox.",
+        "The red toolbox is placed on a lower level than the blue toolbox.",
+        "The blue toolbox is directly placed on the ground."
+    ],
+    "answer": 1,
+    "scene_id": "scene0050_00",
+    "type": ""
+},
+{
+    "id": 124,
+    "image": "124.jpg",
+    "captions": [
+        "Both two black backpacks and a box of tissue are placed on the leather chair.",
+        "Only one black backpack and a box of tissue are placed on the leather chair.",
+        "Only two black backpacks are placed on the leather chair.",
+        "Only the box of tissue is placed on the leather chair."
+    ],
+    "answer": 0,
+    "scene_id": "scene0050_00",
+    "type": ""
+},
+{
+    "id": 125,
+    "image": "125.jpg",
+    "captions": [
+        "The leather chair in the center is completely placed on the carpet.",
+        "The leather chair in the center is only partially on the carpet.",
+        "The leather chair in the center is completely placed on the wooden floor.",
+        ""
+    ],
+    "answer": 1,
+    "scene_id": "scene0050_00",
+    "type": ""
+},
+{
+    "id": 126,
+    "image": "126.jpg",
+    "captions": [
+        "The bottle with green lid is placed on the same surface with the monitor.",
+        "The bottle with green lid is placed on a lower surface than the monitor.",
+        "The bottle with green lid is placed on a higher surface than the monitor.",
+        ""
+    ],
+    "answer": 1,
+    "scene_id": "scene0058_00",
+    "type": ""
+},
+{
+    "id": 127,
+    "image": "127.jpg",
+    "captions": [
+        "The glass bottle with a black lid is directly in front of the second monitor from left to right.",
+        "The glass bottle with a black lid is between the second and third monitors from left to right.",
+        "The glass bottle with a black lid is directly in front of the rightmost monitor.",
+        "The glass bottle with a black lid is directly in front of the leftmost monitor."
+    ],
+    "answer": 1,
+    "scene_id": "scene0058_00",
+    "type": ""
+},
+{
+    "id": 128,
+    "image": "128.jpg",
+    "captions": [
+        "Of the three objects in the picture, the printer is the farthest from the camera.",
+        "Of the three objects in the picture, the printer is the closest to the camera.",
+        "The printer is in the middle of the three objects in the picture.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0060_00",
+    "type": ""
+},
+{
+    "id": 129,
+    "image": "129.jpg",
+    "captions": [
+        "The book closest to the camera is completely placed on the white table.",
+        "The book closest to the camera is placed on the table near the wall.",
+        "The book closest to the camera is placed on the corner of the table but is completely on the table.",
+        "The book closest to the camera is placed on the corner of the table and extends out of the table."
+    ],
+    "answer": 3,
+    "scene_id": "scene0073_03",
+    "type": ""
+},
+{
+    "id": 130,
+    "image": "130.jpg",
+    "captions": [
+        "Both urinals are located at the same height.",
+        "The height of the urinal on the left is lower than that of the urinal on the right.",
+        "The height of the urinal on the left is higher than that of the urinal on the right.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0090_00",
+    "type": ""
+},
+{
+    "id": 131,
+    "image": "131.jpg",
+    "captions": [
+        "All three chairs are not placed under the table.",
+        "Only the chair in the middle is not placed under the table.",
+        "Only the chair closest to the camera is not placed under the table.",
+        "Only the chair furthest from the camera is not placed under the table."
+    ],
+    "answer": 1,
+    "scene_id": "scene0098_00",
+    "type": ""
+},
+{
+    "id": 132,
+    "image": "132.jpg",
+    "captions": [
+        "The potted plant is located at a higher level than the camera.",
+        "The potted plant is positioned horizontally with the camera",
+        "The potted plant is lower than the camera.",
+        ""
+    ],
+    "answer": 0,
+    "scene_id": "scene0135_00",
+    "type": ""
+},
+{
+    "id": 133,
+    "image": "133.jpg",
+    "captions": [
+        "The white bookshelf is placed on the wooden desk.",
+        "The white bookshelf is mounted on the wall.",
+        "The white bookshelf is hanging from the ceiling.",
+        ""
+    ],
+    "answer": 1,
+    "scene_id": "scene0223_01",
+    "type": ""
+},
+{
+    "id": 134,
+    "image": "134.jpg",
+    "captions": [
+        "The clothes are placed at the foot of the bed.",
+        "The clothes are placed in the middle of the bed.",
+        "The clothes are placed at the head of the bed.",
+        ""
+    ],
+    "answer": 0,
+    "scene_id": "scene0286_00",
+    "type": ""
+},
+{
+    "id": 135,
+    "image": "135.jpg",
+    "captions": [
+        "The chair is completely within the frame drawn by red lines.",
+        "The chair is completely out of the frame drawn by red lines.",
+        "The chair is only partially within the frame drawn by red lines.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0206_02",
+    "type": ""
+},
+{
+    "id": 136,
+    "image": "136.jpg",
+    "captions": [
+        "The blue trash can is placed on the office chair.",
+        "The blue trash can is placed on the wooden table.",
+        "The blue trash can is placed on the ground.",
+        ""
+    ],
+    "answer": 1,
+    "scene_id": "scene0263_00",
+    "type": ""
+},
+{
+    "id": 137,
+    "image": "137.jpg",
+    "captions": [
+        "Of the three objects in the picture, the printer is the farthest from the camera.",
+        "Of the three objects in the picture, the printer is the closest to the camera.",
+        "The printer is in the middle of the three objects in the picture.",
+        ""
+    ],
+    "answer": 2,
+    "scene_id": "scene0060_00",
+    "type": ""
+},
+{
+    "id": 138,
+    "image": "138.jpg",
+    "captions": [
+        "The chandelier is hanging on the ceiling, just above the center of the dining table.",
+        "The chandelier is hanging on the ceiling, slightly to the left of the center of the dining table.",
+        "The chandelier is hanging on the ceiling, slightly to the right of the center of the dining table.",
+        ""
+    ],
+    "answer": 1,
+    "scene_id": "scene0212_02",
+    "type": ""
+},
+{
+    "id": 139,
+    "image": "139.jpg",
+    "captions": [
+        "The backpack is placed on the desk.",
+        "The backpack is placed on the chair on the left.",
+        "The backpack is placed on the chair on the right.",
+        "The backpack is placed on the floor."
+    ],
+    "answer": 1,
+    "scene_id": "scene0252_00",
+    "type": ""
+},
+{
+    "id": 140,
+    "image": "140.jpg",
+    "captions": [
+        "The mattress is higher than the windowsill.",
+        "The mattress is lower than the windowsill.",
+        "",
+        ""
+    ],
+    "answer": 0,
+    "scene_id": "scene0277_00",
+    "type": ""
+}
+]

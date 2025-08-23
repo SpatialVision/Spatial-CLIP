@@ -1,0 +1,566 @@
+[    
+    {
+        "id": 37,
+        "image": "relative_depth_1.jpg",
+        "captions": [
+            "Two chairs in the picture are blocked from view by the table.",
+            "Four chairs in the picture are blocked from view by the table.",
+            "Six chairs in the picture are blocked from view by the table.",
+            "Eight chairs in the picture are blocked from view by the table."
+        ],
+        "answer": 3,
+        "type": "relative_depth"
+    },
+    {
+        "id": 38,
+        "image": "relative_depth_2.jpg",
+        "captions": [
+            "The person on the far left is the same distance from the camera as the person pouring the wine.",
+            "The person on the far left is further away from the camera than the person pouring the wine.",
+            "The person on the far left is closer to the camera than the person pouring the wine.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 39,
+        "image": "relative_depth_3.jpg",
+        "captions": [
+            "The bird on the left is furthest away from the camera.",
+            "The bird on the right is farthest from the camera.",
+            "The bird in the middle is furthest away from the camera.",
+            "The three birds are the same distance away from the camera."
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 40,
+        "image": "relative_depth_4.jpg",
+        "captions": [
+            "Only one person is behind the white table.",
+            "Two people are behind the white table.",
+            "Three people are behind the white table.",
+            "Four people are behind the white table."
+        ],
+        "answer": 3,
+        "type": "relative_depth"
+    },
+    {
+        "id": 41,
+        "image": "relative_depth_5.jpg",
+        "captions": [
+            "The trees are farther from the camera than the giraffes.",
+            "The trees are closer to the camera than the giraffes.",
+            "Trees are the same distance from the camera as giraffes.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 42,
+        "image": "relative_depth_6.jpg",
+        "captions": [
+            "The teddy bear is as far away from the camera as the old man wearing glasses.",
+            "Teddy bears are farther away from the camera than older men with glasses.",
+            "Teddy bears are closer to the camera than older men with glasses.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 43,
+        "image": "relative_depth_7.jpg",
+        "captions": [
+            "The guy on the right is closer to the camera.",
+            "The guy on the right is closer to the camera.",
+            "Two boys are equally close to the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 44,
+        "image": "relative_depth_8.jpg",
+        "captions": [
+            "The bus is further away from the camera than the street light on the left.",
+            "The bus is closer to the camera than the street light on the left.",
+            "The bus is as far away from the camera as the street light on the left.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 45,
+        "image": "relative_depth_9.jpg",
+        "captions": [
+            "The red battery car is as close to the camera as the yellow one.",
+            "The red battery car is closer to the camera.",
+            "The yellow battery car is closer to the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 46,
+        "image": "relative_depth_10.jpg",
+        "captions": [
+            "The skateboarder's left hand is positioned on the side of the truck.",
+            "The skateboarder's left hand is positioned away from the side of the truck.",
+            "The skateboarder's left hand is positioned near the side of the truck.",
+            "The skateboarder's left hand is positioned above the side of the truck."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 47,
+        "image": "relative_depth_11.jpg",
+        "captions": [
+            "The person is cutting the one further away from the camera among both pizzas.",
+            "The person is cutting the one closer to the camera among both pizzas.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 48,
+        "image": "relative_depth_12.jpg",
+        "captions": [
+            "The street light and the bus are at the same distance from the camera.",
+            "The street light is farther away from the camera than the bus.",
+            "The street light is closer to the camera than the bus.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 49,
+        "image": "relative_depth_13.jpg",
+        "captions": [
+            "The three seagulls are perched on wooden posts positioned on the same level.",
+            "The seagull farthest from the camera stands on the highest stake.",
+            "The seagull closest to the camera stands on the highest stake.",
+            "The seagull at a medium distance from the camera stands on the highest stake."
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 50,
+        "image": "relative_depth_14.jpg",
+        "captions": [
+            "The person on the left is farthest from the camera.",
+            "The person in the middle is farthest from the camera.",
+            "The person on the right is farthest from the camera.",
+            "All three people are at the same distance from the camera."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 51,
+        "image": "relative_depth_15.jpg",
+        "captions": [
+            "All the trees and branches are in front of the person in the picture.",
+            "All the trees and branches are behind the person in the picture.",
+            "Some trees and branches are in front of the person, and some are behind.",
+            "All the trees and branches are at the same distance as the person in the picture."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 52,
+        "image": "relative_depth_16.jpg",
+        "captions": [
+            "The child with an orange shirt is closer to the ice cream truck.",
+            "The man with a blue shirt is closer to the ice cream truck.",
+            "Both the man with a blue shirt and the child with an orange shirt are at the same distance from the ice cream truck.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 53,
+        "image": "relative_depth_17.jpg",
+        "captions": [
+            "The catcher crouching on the ground is closer to the camera.",
+            "The batter wearing a jersey with the number 24 is closer to the camera.",
+            "Both the catcher and the batter are at the same distance from the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 54,
+        "image": "relative_depth_18.jpg",
+        "captions": [
+            "The wooden table is touching the edge of the window.",
+            "The wooden table is partially overlapping the edge of the window.",
+            "The wooden table is not touching the edge of the window.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 55,
+        "image": "relative_depth_19.jpg",
+        "captions": [
+            "The man on the left holding the cup is closer to the camera.",
+            "The man on the right holding the cup is closer to the camera.",
+            "The man holding the cup in the middle is closer to the camera.",
+            "All the men holding the cups are at the same distance from the camera."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 56,
+        "image": "relative_depth_20.jpg",
+        "captions": [
+            "The first aid kit is the same distance from the camera as the toilet.",
+            "The first aid kit is farther from the camera than the toilet.",
+            "The first aid kit is closer to the camera than the toilet.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 57,
+        "image": "relative_depth_21.jpg",
+        "captions": [
+            "All people are in front of the iron fence.",
+            "Only a boy is in front of the iron fence.",
+            "There are no people in front of the iron fence.",
+            "All people are behind the iron fence."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 58,
+        "image": "relative_depth_22.jpg",
+        "captions": [
+            "The alarm clock is as far away from the camera as the building.",
+            "The alarm clock is farther away from the camera than the building.",
+            "The alarm clock is closer to the camera than the building.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 59,
+        "image": "relative_depth_23.jpg",
+        "captions": [
+            "The closer woman's pizza is farther away from the camera than the other pizza.",
+            "The closer woman's pizza is closer to the camera than the other pizza.",
+            "The pizza of the woman who is closer is as far away from the camera as the other pizza.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 60,
+        "image": "relative_depth_24.jpg",
+        "captions": [
+            "The clock and the painting are as far away from the camera.",
+            "The bell is farther from the camera than the painting.",
+            "The bell is closer to the camera than the painting.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 61,
+        "image": "relative_depth_25.jpg",
+        "captions": [
+            "The cat is further away from the camera than the umbrella.",
+            "The cat is closer to the camera than the umbrella.",
+            "The cat is as far away from the camera as the umbrella.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 62,
+        "image": "relative_depth_26.jpg",
+        "captions": [
+            "The bottle near the right is further away from the camera.",
+            "The bottle near the left is further away from the camera.",
+            "The bottle in the picture is the same distance from the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 63,
+        "image": "relative_depth_27.jpg",
+        "captions": [
+            "One person is outside the penalty area.",
+            "Two people are outside the penalty area.",
+            "Three people are outside the penalty area.",
+            "Four people are outside the penalty area."
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 64,
+        "image": "relative_depth_28.jpg",
+        "captions": [
+            "The bus on the left is further away from the camera than the bus on the right.",
+            "The bus on the left is closer to the camera than the bus on the right.",
+            "The left and right buses are the same distance from the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 65,
+        "image": "relative_depth_29.jpg",
+        "captions": [
+            "The transparent plastic box for carrots is farthest from the camera.",
+            "The yellow bottle is farthest from the camera.",
+            "The red plate is farthest from the camera.",
+            "The stainless steel basin is farthest from the camera."
+        ],
+        "answer": 3,
+        "type": "relative_depth"
+    },
+    {
+        "id": 66,
+        "image": "relative_depth_30.jpg",
+        "captions": [
+            "The man on the left is closer to the camera.",
+            "The woman on the right is closer to the camera.",
+            "Two people are equally close to the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 67,
+        "image": "relative_depth_31.jpg",
+        "captions": [
+            "The car is farther from the camera than the kite.",
+            "The car is closer to the camera than the kite.",
+            "The car and the kite are the same distance from the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 68,
+        "image": "relative_depth_32.jpg",
+        "captions": [
+            "Zero vehicles in the picture are on the same lane with the tanker truck on the left side.",
+            "One vehicle in the picture is on the same lane with the tanker truck on the left side.",
+            "Two vehicles in the picture are on the same lane with the tanker truck on the left side.",
+            "None of the above."
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 69,
+        "image": "relative_depth_33.jpg",
+        "captions": [
+            "The stroller and the man are the same distance from the camera.",
+            "The stroller is farther away from the camera than man.",
+            "The stroller is closer to the camera than the man.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 70,
+        "image": "relative_depth_34.jpg",
+        "captions": [
+            "Girls and boys are the same distance away from the camera.",
+            "Girls are farther away from the camera than boys.",
+            "Girls are closer to the camera than boys.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 71,
+        "image": "relative_depth_35.jpg",
+        "captions": [
+            "The Star Wars toy on the far left is closest to the camera.",
+            "The Star Wars toy on the far right is closest to the camera.",
+            "The Star Wars toy in the middle is closest to the camera.",
+            "All Star Wars toys are the same distance from the camera."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 72,
+        "image": "relative_depth_36.jpg",
+        "captions": [
+            "All three vases are the same distance from the camera.",
+            "The vase on the far left is farthest from the camera",
+            "The vase on the far right is farthest from the camera.",
+            "The vase in the middle is farthest from the camera."
+        ],
+        "answer": 3,
+        "type": "relative_depth"
+    },
+    {
+        "id": 73,
+        "image": "relative_depth_37.jpg",
+        "captions": [
+            "The boats are moored at the shore closer to the camera.",
+            "The boats are moored at the shore further away from the camera.",
+            "The boats are moored at the middle of both shore.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 74,
+        "image": "relative_depth_38.jpg",
+        "captions": [
+            "The bus is farther from the camera than the white line.",
+            "The bus is closer to the camera than the white line.",
+            "The bus and the white line are at the same distance from the camera.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 75,
+        "image": "relative_depth_39.jpg",
+        "captions": [
+            "All three birds are the same distance from the camera.",
+            "The rightmost bird in the picture is closest to the camera.",
+            "The leftmost bird in the picture is closest to the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 76,
+        "image": "relative_depth_40.jpg",
+        "captions": [
+            "The stop sign is closer to the camera.",
+            "The stop sign and the traffic light are at the same distance from the camera.",
+            "The traffic light is closer to the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 77,
+        "image": "relative_depth_41.jpg",
+        "captions": [
+            "The white bus and the red bus are the same distance from the camera.",
+            "The white bus is farther away from the camera than the red bus.",
+            "The white bus is closer to the camera than the red bus.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 78,
+        "image": "relative_depth_42.jpg",
+        "captions": [
+            "The zebra in the foreground is closer to the camera.",
+            "The thick tree trunk is closer to the camera.",
+            "Both the zebra and the tree trunk are at the same distance from the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 79,
+        "image": "relative_depth_43.jpg",
+        "captions": [
+            "All the people in the picture are the same distance from the camera.",
+            "The three people on the right are closer to the camera.",
+            "The two people on the left are closer to the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 80,
+        "image": "relative_depth_44.jpg",
+        "captions": [
+            "The player away from the camera are closer to the football.",
+            "The player closer to the camera is closer to the football.",
+            "The players are the same distance from the football.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 81,
+        "image": "relative_depth_45.jpg",
+        "captions": [
+            "The man and the cow are the same distance from the camera.",
+            "The man in the picture is further away from the camera than the cow.",
+            "The man in the picture is closer to the camera than the cow.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 82,
+        "image": "relative_depth_46.jpg",
+        "captions": [
+            "A player holding a tennis racket is as close to the camera as a person wearing a red shirt.",
+            "A player holding a tennis racket is closer to the camera than someone wearing a red shirt.",
+            "A player holding a tennis racket is farther away from the camera than someone wearing a red shirt.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 83,
+        "image": "relative_depth_47.jpg",
+        "captions": [
+            "The player holding a tennis racket is closer to the camera than the other person.",
+            "The player holding a tennis racket is further away from the camera than the other person.",
+            "The player holding a tennis racket is as close to the camera as the other person.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    }
+]

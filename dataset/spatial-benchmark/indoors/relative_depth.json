@@ -1,0 +1,366 @@
+[
+    {
+        "id": 45,
+        "image": "45.jpg",
+        "captions": [
+            "The pink school bag is closer to the camera than the white pillar.",
+            "The white pillar is closer to the camera than the pink school bag.",
+            "The pink school bag and the white pillar are the same distance to the camera.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0001_00",
+        "type": ""
+    },
+    {
+        "id": 46,
+        "image": "46.jpg",
+        "captions": [
+            "The light is closer to the camera than the TV.",
+            "The TV is closer to the camera than the light.",
+            "The light and the TV are at the same distance from the camera.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0002_00",
+        "type": ""
+    },
+    {
+        "id": 47,
+        "image": "47.jpg",
+        "captions": [
+            "The television and the chair on the right are at the same distance from the camera.",
+            "The television is closer to the camera than the chair on the right.",
+            "The chair on the right is closer to the camera than the television.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0006_00",
+        "type": ""
+    },
+    {
+        "id": 48,
+        "image": "48.jpg",
+        "captions": [
+            "The monitor on the left is closer to the camera.",
+            "The monitor on the right is closer to the camera.",
+            "Two monitors are equally close to the camera.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0010_00",
+        "type": ""
+    },
+    {
+        "id": 49,
+        "image": "49.jpg",
+        "captions": [
+            "There are things on both chairs in the picture.",
+            "There is nothing on either chair.",
+            "Only the chair further away from the camera has something on it",
+            "Only the chair closer to the camera has something on it"
+        ],
+        "answer": 3,
+        "scene_id": "scene0012_00",
+        "type": ""
+    },
+    {
+        "id": 50,
+        "image": "50.jpg",
+        "captions": [
+            "The lamp hanging over the ceiling is directly above the two chairs.",
+            "The lamp hanging over the ceiling is in the corner of the room.",
+            "The lamp hanging over the ceiling is closer to the camera than the two chairs.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0012_00",
+        "type": ""
+    },
+    {
+        "id": 51,
+        "image": "51.jpg",
+        "captions": [
+            "The chair further from the camera has its back to the camera.",
+            "The chair closer to the camera is facing the camera.",
+            "Two chairs are touching each other.",
+            "Two chairs are not in touch with each other."
+        ],
+        "answer": 3,
+        "scene_id": "scene0013_02",
+        "type": ""
+    },
+    {
+        "id": 52,
+        "image": "52.jpg",
+        "captions": [
+            "The plant is closer to the lockers on the left than the camera.",
+            "The plant is closer to the white board in the background than the camera.",
+            "The plant is closer to the camera than the lockers on the left.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0017_00",
+        "type": ""
+    },
+    {
+        "id": 53,
+        "image": "53.jpg",
+        "captions": [
+            "The red chair is closer to the camera than the book shelf on the wall.",
+            "The book shelf on the wall is closer to the camera than the red chair.",
+            "The red chair and the book shelf are the same distance from the camera.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0019_01",
+        "type": ""
+    },
+    {
+        "id": 54,
+        "image": "54.jpg",
+        "captions": [
+            "The desk is closer to the door than the black sofa.",
+            "The white shelves are closer to the door than the black sofa.",
+            "The white shelves are closer to the black sofa than the desk.",
+            "The white shelves are closer to the desk than the black sofa."
+        ],
+        "answer": 1,
+        "scene_id": "scene0025_00",
+        "type": ""
+    },
+    {
+        "id": 55,
+        "image": "55.jpg",
+        "captions": [
+            "The color of the chair farthest from the camera is dark red.",
+            "The color of the chair closest to the camera is white.",
+            "The color of the chair farthest from the camera is orange.",
+            "The color of the chair closest to the camera is orange."
+        ],
+        "answer": 2,
+        "scene_id": "scene0033_00",
+        "type": ""
+    },
+    {
+        "id": 56,
+        "image": "56.jpg",
+        "captions": [
+            "The monitor is closer to the camera than the laptop.",
+            "The laptop is closer to the camera than the monitor.",
+            "The laptop and the monitor are the same distance from the camera.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0051_00",
+        "type": ""
+    },
+    {
+        "id": 57,
+        "image": "57.jpg",
+        "captions": [
+            "The clock is hung above the whiteboard closer to the camera.",
+            "The clock is hung above the whiteboard further away from the camera.",
+            "The clock is hung above the center of the two whiteboards.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0056_00",
+        "type": ""
+    },
+    {
+        "id": 58,
+        "image": "58.jpg",
+        "captions": [
+            "A canvas bag is placed on the first wooden chair from left to right.",
+            "A canvas bag is placed on the rightmost wooden chair in the picture.",
+            "A canvas bag is placed on the wooden chair furthest from the camera.",
+            "A canvas bag is placed on the wooden chair closest to the camera."
+        ],
+        "answer": 3,
+        "scene_id": "scene0059_00",
+        "type": ""
+    },
+    {
+        "id": 59,
+        "image": "59.jpg",
+        "captions": [
+            "Only the light green sofa closer to the camera has a black backpack.",
+            "Only the light green sofa further from the camera has a black backpack.",
+            "Both the light green sofas have a black backpack.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0059_02",
+        "type": ""
+    },
+    {
+        "id": 60,
+        "image": "60.jpg",
+        "captions": [
+            "The black leather chair furthest from the camera is in front of the round table.",
+            "The black leather chair furthest from the camera is behind the round table.",
+            "The black leather chair closest to the camera is behind the round table.",
+            "The black leather chair second closest to the camera is behind the round table."
+        ],
+        "answer": 1,
+        "scene_id": "scene0061_00",
+        "type": ""
+    },
+    {
+        "id": 61,
+        "image": "61.jpg",
+        "captions": [
+            "The computer is placed in front of the first chair from right to left.",
+            "The computer is placed in front of the second chair from right to left.",
+            "The computer is placed in front of the third chair from right to left.",
+            "The computer is placed in front of the fourth chair from right to left."
+        ],
+        "answer": 1,
+        "scene_id": "scene0079_00",
+        "type": ""
+    },
+    {
+        "id": 62,
+        "image": "62.jpg",
+        "captions": [
+            "The color of the chair closest to the camera is brown.",
+            "The color of the chair closest to the camera is dark blue.",
+            "The color of the chair closest to the camera is gray.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0089_00",
+        "type": ""
+    },
+    {
+        "id": 63,
+        "image": "63.jpg",
+        "captions": [
+            "The bedside lamp is closer to the camera than the armchair.",
+            "The bedside lamp is closer to the armchair than the camera.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0107_00",
+        "type": ""
+    },
+    {
+        "id": 64,
+        "image": "64.jpg",
+        "captions": [
+            "Both garbage cans are same distance from the door.",
+            "The garbage can on the right is closer to the door than another garbage can.",
+            "The garbage can on the left is closer to the door than another garbage can.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0140_00",
+        "type": ""
+    },
+    {
+        "id": 65,
+        "image": "65.jpg",
+        "captions": [
+            "The desk lamp is closer to the camera than the laptop.",
+            "The laptop is closer to the camera than desk lamp.",
+            "The laptop and the desk lamp are the same distance from the camera.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0177_00",
+        "type": ""
+    },
+    {
+        "id": 66,
+        "image": "66.jpg",
+        "captions": [
+            "The red flower is closer to the camera than all chairs.",
+            "All chairs are closer to the camera than the red flower.",
+            "Only two chairs are closer to the camera than the red flower.",
+            "Three chairs in total are closer to the camera than the red flower."
+        ],
+        "answer": 2,
+        "scene_id": "scene0220_00",
+        "type": ""
+    },
+    {
+        "id": 67,
+        "image": "67.jpg",
+        "captions": [
+            "The wooden desks on the left and right are equally close to the camera.",
+            "The wooden desk on the left is closer to camera than the wooden desk on the right.",
+            "The wooden desk on the right is closer to camera than the wooden desk on the left.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0222_01",
+        "type": ""
+    },
+    {
+        "id": 68,
+        "image": "68.jpg",
+        "captions": [
+            "All three monitors are not placed on the same desk.",
+            "The leftmost moniter is placed on a lower place than the other monitors.",
+            "The rightmost moniter is farthest from the camera than the other monitors.",
+            "The leftmost moniter is farthest from the camera than the other monitors."
+        ],
+        "answer": 3,
+        "scene_id": "scene0230_00",
+        "type": ""
+    },
+    {
+        "id": 69,
+        "image": "69.jpg",
+        "captions": [
+            "The toilet is further from the camera than the washing machine.",
+            "The toilet is closer to the camera than the washing machine.",
+            "The toilet and the washing machine are the same distance to the camera.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0232_00",
+        "type": ""
+    },
+    {
+        "id": 70,
+        "image": "70.jpg",
+        "captions": [
+            "The bottle of water is closer to the camera than only the left of the two monitors.",
+            "The bottle of water is closer to the camera than only the right of the two monitors.",
+            "The bottle of water is closer to the camera than both the two monitors behind.",
+            "The bottle of water is the same distance to the camera as the two monitors."
+        ],
+        "answer": 2,
+        "scene_id": "scene0238_01",
+        "type": ""
+    },
+    {
+        "id": 71,
+        "image": "71.jpg",
+        "captions": [
+            "The wooden table is closer to camera than the garbage can.",
+            "The garbage can is placed directly under the wooden table.",
+            "The garbage can is closer to camera than the wooden table.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0249_00",
+        "type": ""
+    },
+    {
+        "id": 72,
+        "image": "72.jpg",
+        "captions": [
+            "The suitcase closest to the camera is the largest among the other.",
+            "The suitcase furthest away from the camera is the largest among the other.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0271_00",
+        "type": ""
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": 110,
+        "image": "relative_spatial_position_1.jpg",
+        "captions": [
+            "The black ceramic vase on the right is the largest in volume.",
+            "The black ceramic vase on the left is the largest in volume.",
+            "All the black ceramic vases are of the same size.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 111,
+        "image": "relative_spatial_position_2.jpg",
+        "captions": [
+            "The people sitting at the table are closer to the windows on the right than the building in the background.",
+            "The people sitting at the table are closer to the building in the background than the windows on the right.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 112,
+        "image": "relative_spatial_position_3.jpg",
+        "captions": [
+            "Three picture frames are hung on one walls in total.",
+            "Three picture frames are hung on two walls in total.",
+            "Three picture frames are hung on three walls in total.",
+            "Three picture frames are hung on four walls in total."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 113,
+        "image": "relative_spatial_position_4.jpg",
+        "captions": [
+            "Three pillars in the picture are further away from the camera than the statue.",
+            "Four pillars in the picture are further away from the camera than the statue.",
+            "Five pillars in the picture are further away from the camera than the statue.",
+            "Six pillars in the picture are further away from the camera than the statue."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 114,
+        "image": "relative_spatial_position_5.jpg",
+        "captions": [
+            "There is only one wall with paintings.",
+            "There are two walls with paintings.",
+            "There are three walls with paintings.",
+            "There are four walls with paintings."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 115,
+        "image": "relative_spatial_position_6.jpg",
+        "captions": [
+            "The window in the picture is not directly facing the door.",
+            "The window in the picture faces directly onto the door.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 116,
+        "image": "relative_spatial_position_7.jpg",
+        "captions": [
+            "The plane formed by the road signs points to the sky",
+            "The plane formed by the road signs forms a certain angle with the ground.",
+            "The plane formed by the road signs are perpendicular to the ground.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 117,
+        "image": "relative_spatial_position_8.jpg",
+        "captions": [
+            "Only one person is under the umbrellas in total.",
+            "Two people are under the umbrellas in total.",
+            "Three people are under the umbrellas in total.",
+            "Four one people are under the umbrellas in total."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 118,
+        "image": "relative_spatial_position_9.jpg",
+        "captions": [
+            "The yellow posts around the fire hydrant form a circle.",
+            "The yellow posts around the fire hydrant form a rectangle.",
+            "The yellow posts around the fire hydrant form a triangle.",
+            "The yellow posts around the fire hydrant form a ellipse."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 119,
+        "image": "relative_depth_48.jpg",
+        "captions": [
+            "The taxis are arranged in a semicircular curve.",
+            "The taxis in the picture are arranged in a straight line.",
+            "The taxis in the picture are arranged in irregular diagonal lines.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 120,
+        "image": "relative_spatial_position_10.jpg",
+        "captions": [
+            "The dark blue bowl is in front of the brown paper bag in the middle.",
+            "The dark blue bowl is behind the brown paper bag in the middle.",
+            "The dark blue bowl is on the left side of the brown paper bag in the middle.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 121,
+        "image": "relative_spatial_position_11.jpg",
+        "captions": [
+            "The TV screen is oriented straight ahead, facing into the room.",
+            "The TV screen forms an angle with the mirror.",
+            "The TV screen is perpendicular to the mirror.",
+            "The TV screen is parallel with the mirror."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 122,
+        "image": "relative_spatial_position_12.jpg",
+        "captions": [
+            "The three stop signs are in a straight line.",
+            "The three stop signs are not in a straight line.",
+            "The stop signs are arranged in a triangular pattern.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 123,
+        "image": "relative_spatial_position_13.jpg",
+        "captions": [
+            "The electric wires in the air are above the buildings in the background.",
+            "The electric wires are below the buildings in the background.",
+            "The electric wires are running parallel to the buildings in the background.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 124,
+        "image": "relative_spatial_position_14.jpg",
+        "captions": [
+            "The long ruler is leaning against the toolbox.",
+            "The long ruler is hanging on the wall above the toolbox.",
+            "The long ruler is lying flat on the desk next to the toolbox.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 125,
+        "image": "relative_spatial_position_15.jpg",
+        "captions": [
+            "The brown-haired woman is holding a glass.",
+            "The brown-haired woman is not holding anything.",
+            "The brown-haired woman is holding a phone.",
+            "The brown-haired woman is holding a knife and a fork."
+        ],
+        "answer": 3,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 126,
+        "image": "relative_spatial_position_16.jpg",
+        "captions": [
+            "The cat is sleeping on the desk.",
+            "The cat is sleeping on the keyboard.",
+            "The cat is sleeping on the chair.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 127,
+        "image": "relative_spatial_position_17.jpg",
+        "captions": [
+            "All zebras are directly under the thatched-roof in the middle.",
+            "Only one zebra is not directly under the thatched-roof in the middle.",
+            "Two zebras are not directly under the thatched-roof in the middle.",
+            "Three zebras are not directly under the thatched-roof in the middle."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 128,
+        "image": "relative_spatial_position_18.jpg",
+        "captions": [
+            "The keyboard and monitor are on the same surface of the desk.",
+            "The keyboard is on the desk, but the monitor is on the higher surface of the desk.",
+            "The monitor is on the desk, but the keyboard is on the chair.",
+            "Neither the keyboard nor the monitor are on the desk."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 129,
+        "image": "relative_spatial_position_19.jpg",
+        "captions": [
+            "One person is in front of the TV closest to the camera.",
+            "Two people are in front of the TV closest to the camera.",
+            "Three people are in front of the TV closest to the camera.",
+            "Four people are in front of the TV closest to the camera."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 130,
+        "image": "relative_spatial_position_20.jpg",
+        "captions": [
+            "The police are lined up in front of the motorcycles.",
+            "The police are lined up behind the motorcycles.",
+            "The police are not standing in a line.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 131,
+        "image": "relative_spatial_position_21.jpg",
+        "captions": [
+            "The cat is leaning over a stainless steel kitchen sink.",
+            "The cat is standing on the edge of the stainless steel.",
+            "The cat is sitting in the stainless steel.",
+            "There is no cat in the image."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 132,
+        "image": "relative_spatial_position_22.jpg",
+        "captions": [
+            "The round mirror is hanging on the wall.",
+            "The round mirror is hanging from the ceiling.",
+            "The round mirror is not directly hanging on the wall.",
+            "The round mirror is not in the picture."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 133,
+        "image": "relative_spatial_position_23.jpg",
+        "captions": [
+            "The baby is holding the banana with both hands.",
+            "The baby is holding the banana with only one hand.",
+            "The baby is not holding a banana but something else.",
+            "The baby is not holding anything."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 134,
+        "image": "relative_spatial_position_24.jpg",
+        "captions": [
+            "Two people are inside the box drawn with white lines on the ground.",
+            "Three people are inside the box drawn with white lines on the ground.",
+            "Only one person is inside the box drawn with white lines on the ground.",
+            "There is no person inside the box drawn with white lines on the ground."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 135,
+        "image": "relative_spatial_position_25.jpg",
+        "captions": [
+            "One book is stacked on the edge of the laptop.",
+            "Two books are stacked on the edge of the laptop.",
+            "Three books are stacked on the edge of the laptop.",
+            "No books are stacked on the edge of the laptop."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 136,
+        "image": "relative_spatial_position_26.jpg",
+        "captions": [
+            "Only one wall can be seen of the structure in the background.",
+            "Two walls can be seen of the structure in the background.",
+            "Three walls can be seen of the structure in the background.",
+            "Four walls can be seen of the structure in the background."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 137,
+        "image": "relative_spatial_position_27.jpg",
+        "captions": [
+            "The person is standing on the left side of the counter.",
+            "The person is standing in the middle of the counter.",
+            "The person is standing on the right side of the counter.",
+            "No person is in the picture."
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 138,
+        "image": "relative_spatial_position_28.jpg",
+        "captions": [
+            "The man is using the phone only with his right hand.",
+            "The man is using the phone only with his left hand.",
+            "The man is using the phone with his both hands.",
+            "The man is not using a phone."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 139,
+        "image": "relative_spatial_position_29.jpg",
+        "captions": [
+            "The television is parallel to the bookshelf.",
+            "The television is perpendicular to the bookshelf.",
+            "The television is angled relative to the bookshelf.",
+            "The television is not in the same room as the bookshelf."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 140,
+        "image": "relative_spatial_position_30.jpg",
+        "captions": [
+            "No road signs are in the picture.",
+            "Both road signs are at the same distance from the camera.",
+            "The road sign on the left is closer to the camera.",
+            "The road sign on the right is closer to the camera."
+        ],
+        "answer": 3,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 141,
+        "image": "relative_spatial_position_31.jpg",
+        "captions": [
+            "The person's hand is directly touching the Frisbee.",
+            "The person's hand is just above the Frisbee.",
+            "The person's hand is holding the Frisbee.",
+            "The person's hand is not touching the Frisbee."
+        ],
+        "answer": 3,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 142,
+        "image": "relative_spatial_position_32.jpg",
+        "captions": [
+            "The vehicles are in a curved line.",
+            "The vehicles are in a straight line.",
+            "The vehicles are scattered randomly.",
+            "There are no vehicles in the picture."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 143,
+        "image": "relative_spatial_position_33.jpg",
+        "captions": [
+            "The green plant is placed on the kitchen counter.",
+            "The green plant is placed on the dining table.",
+            "The green plant is placed on the floor.",
+            "The green plant is not placed on the kitchen counter."
+        ],
+        "answer": 3,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 144,
+        "image": "relative_spatial_position_34.jpg",
+        "captions": [
+            "There are no cars behind the fire truck.",
+            "A car is directly behind the fire truck.",
+            "Two cars are directly behind the fire truck.",
+            "Three cars are directly behind the fire truck."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 145,
+        "image": "relative_spatial_position_35.jpg",
+        "captions": [
+            "In the picture, the five men in red are in a straight line.",
+            "In the picture, the five men in red are not in a straight line.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 146,
+        "image": "relative_spatial_position_36.jpg",
+        "captions": [
+            "The mouse is placed completely on the table.",
+            "The mouse is placed completely on the keyboard.",
+            "The mouse is placed suspended in the air.",
+            "The mouse is placed under the table."
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 147,
+        "image": "relative_spatial_position_37.jpg",
+        "captions": [
+            "No white flowers are placed in the box on the table.",
+            "Only half of the white flowers are placed in the box on the table.",
+            "All the white flowers are placed in the box on the table.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 148,
+        "image": "relative_spatial_position_38.jpg",
+        "captions": [
+            "Three remote controls are placed on top of other remote controls.",
+            "Four remote controls are placed on top of other remote controls.",
+            "Only one remote control is placed on top of other remote controls.",
+            "Two remote controls are placed on top of other remote controls."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 149,
+        "image": "relative_spatial_position_39.jpg",
+        "captions": [
+            "The frisbee is on the ground.",
+            "The frisbee is in the person's hand.",
+            "The frisbee is floating in the air.",
+            "The frisbee is directly in front of the person."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 150,
+        "image": "relative_spatial_position_40.jpg",
+        "captions": [
+            "The front wheel of the car is floating above the white line.",
+            "The front wheel of the car is on the white line.",
+            "The front wheel of the car is under the white line.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 151,
+        "image": "relative_spatial_position_41.jpg",
+        "captions": [
+            "The red truck is parked outside the parking space.",
+            "The red truck is parked on the sidewalk.",
+            "The red truck is parked within the parking space delineated by white lines.",
+            "There is no red truck in the picture."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 152,
+        "image": "relative_spatial_position_42.jpg",
+        "captions": [
+            "The cat is completely lying on the skateboard.",
+            "The cat is completely not lying on the skateboard.",
+            "The cat is partially lying on the skateboard.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 153,
+        "image": "relative_depth_49.jpg",
+        "captions": [
+            "The three vehicles are aligned in a straight line.",
+            "The three vehicles are not aligned in a straight line.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 154,
+        "image": "relative_spatial_position_43.jpg",
+        "captions": [
+            "Both the ottoman and the wooden coffee table are directly on the floor.",
+            "The ottoman is fully on the carpet while the wooden coffee table extends beyond the edge of the carpet.",
+            "Both the ottoman and the wooden coffee table are completely on the carpet.",
+            "Both the ottoman and the wooden coffee table are partly on the carpet."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 155,
+        "image": "relative_spatial_position_44.jpg",
+        "captions": [
+            "The surfing board is directly behind the two people.",
+            "The surfing board is behind the two people to the right.",
+            "The surfing board is directly to the right of the two people.",
+            "The surfboard is in front of the two people to the right."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 156,
+        "image": "relative_spatial_position_45.jpg",
+        "captions": [
+            "The cat is lying over the umbrella.",
+            "The cat is lying under the umbrella.",
+            "The cat is lying next to the umbrella.",
+            "The cat is lying behind the umbrella."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 157,
+        "image": "relative_spatial_position_46.jpg",
+        "captions": [
+            "Zero vehicles in the picture are on the same lane with the tanker truck on the left side.",
+            "One vehicle in the picture is on the same lane with the tanker truck on the left side.",
+            "Two vehicles in the picture are on the same lane with the tanker truck on the left side.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 158,
+        "image": "relative_depth_50.jpg",
+        "captions": [
+            "There are no Star Wars toys standing on the tray.",
+            "There is one Star Wars toy standing on the tray.",
+            "There are two Star Wars toys standing on the tray.",
+            "There are more than two Star Wars toys standing on the tray."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 159,
+        "image": "relative_spatial_position_47.jpg",
+        "captions": [
+            "Only one car is right under the bridge.",
+            "Two cars are right under the bridge.",
+            "Three cars are right under the bridge.",
+            "Four cars are right under the bridge."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    }
+]

@@ -1,0 +1,1910 @@
+[
+    {
+        "id": 1,
+        "image": "47753468221_5d46809a0e_k.jpg",
+        "captions": [
+            "The person closest to the camera is facing the camera.",
+            "The person closest to the camera is facing sideways.",
+            "The person closest to the camera has his back to the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 2,
+        "image": "000000000003.jpg",
+        "captions": [
+            "The car closest to the camera is facing the same direction as the truck next to it.",
+            "The car closest to the camera is facing opposite direction as the truck next to it.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 3,
+        "image": "000000003748.jpg",
+        "captions": [
+            "The white door is facing the mirror above the sink",
+            "The white door is not facing the mirror above the sink",
+            "The white door is parallel to the plane on which the mirror sits.",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 4,
+        "image": "000000011413.jpg",
+        "captions": [
+            "The motorbikes are parked along the street parallel to the building they're parked in front of.",
+            "The motorbikes are parked along the street perpendicular to the building they're parked in front of.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 5,
+        "image": "000000017929.jpg",
+        "captions": [
+            "The two motorbikes are facing the same direction.",
+            "The two motorbikes are facing opposite directions.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 6,
+        "image": "000000022139.jpg",
+        "captions": [
+            "The woman in the picture is facing directly towards the camera.",
+            "The woman in the picture has her back to the direction of the camera.",
+            "The woman in the picture is facing sideways towards the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "object_orientation"
+    },
+    {
+        "id": 7,
+        "image": "000000023744.jpg",
+        "captions": [
+            "Two giraffes walking in opposite directions.",
+            "One giraffe is walking towards the right side of the frame while the other is facing and walking towards the camera.",
+            "One giraffe is walking towards the left side of the frame while the other is walking away from the camera.",
+            "One giraffe is walking towards the left side of the frame while the other is facing and walking to the camera."
+        ],
+        "answer": 3,
+        "type": "object_orientation"
+    },
+    {
+        "id": 8,
+        "image": "000000027359.jpg",
+        "captions": [
+            "The suitcase is directly in front of the door.",
+            "The suitcase is on the right front of the door.",
+            "The suitcase is on the left front of the door.",
+            "The suitcase is behind the door."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 9,
+        "image": "000000037176.jpg",
+        "captions": [
+            "The sign with words '300' is on the same plane with the sign with words 'HILL'.",
+            "The sign with words '950' is on the same plane with the sign with words 'HILL'.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "type": "object_orientation"
+    },
+    {
+        "id": 10,
+        "image": "000000042583.jpg",
+        "captions": [
+            "The two men in the picture are facing away from the camera.",
+            "The two men in the picture are looking straight to the right.",
+            "The two men in the picture are looking straight to the left.",
+            "The two men in the picture are looking straight into the camera."
+        ],
+        "answer": 3,
+        "type": "object_orientation"
+    },
+    {
+        "id": 11,
+        "image": "000000042776.jpg",
+        "captions": [
+            "The zebra is heading straight to the right.",
+            "The zebra is heading straight towards the camera.",
+            "The zebra is heading straight to the left.",
+            "The zebra is heading away from the camera."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 12,
+        "image": "000000043224.jpg",
+        "captions": [
+            "The two players in the picture are facing the same direction.",
+            "The two players in the picture are facing opposite directions.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 13,
+        "image": "000000046179.jpg",
+        "captions": [
+            "The taxis in the picture are facing to the left.",
+            "The taxis in the picture are facing the camera.",
+            "The taxis in the picture are facing to the right.",
+            "The taxis in the picture are facing away from the camera."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 14,
+        "image": "000000046380.jpg",
+        "captions": [
+            "The man's eyes are facing in the opposite direction towards the television.",
+            "The man's eyes are facing towards the television.",
+            "The man's eyes are facing to the left of the TV.",
+            "The man's eyes are facing to the right of the TV."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 15,
+        "image": "000000047243.jpg",
+        "captions": [
+            "The people in the picture are looking to the left.",
+            "The people in the picture are looking away from the camera.",
+            "The people in the picture are looking straight at the camera.",
+            "The people in the picture are looking to the right."
+        ],
+        "answer": 2,
+        "type": "object_orientation"
+    },
+    {
+        "id": 16,
+        "image": "000000047310.jpg",
+        "captions": [
+            "Both giraffes face away from the camera.",
+            "Both giraffes look towards the camera.",
+            "Both giraffes look to the left.",
+            "Both giraffes look to the right."
+        ],
+        "answer": 3,
+        "type": "object_orientation"
+    },
+    {
+        "id": 17,
+        "image": "000000047580.jpg",
+        "captions": [
+            "The person turned sideways towards the camera.",
+            "The person is facing the camera.",
+            "The person is facing the left.",
+            "The person is facing the right."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 18,
+        "image": "000000048028.jpg",
+        "captions": [
+            "The cat is facing the camera.",
+            "The cat is facing the left.",
+            "The cat is facing the right.",
+            "The cat is facing away from the camera."
+        ],
+        "answer": 3,
+        "type": "object_orientation"
+    },
+    {
+        "id": 19,
+        "image": "000000049781.jpg",
+        "captions": [
+            "The cow on the right looks to the left.",
+            "The cow on the right looks to the right.",
+            "The cow on the right looks towards the camera.",
+            "The cow on the right faces away from the camera."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 20,
+        "image": "000000036752.jpg",
+        "captions": [
+            "The black cat looks towards the camera",
+            "The black cat faces away from the camera.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 21,
+        "image": "000000031198.jpg",
+        "captions": [
+            "Three birds are perching on a straight line.",
+            "The bird on the rightmost of the picture is perching on the highest position.",
+            "The leftmost bird in the picture is closest to the camera.",
+            "Three birds are the same distance from the camera."
+        ],
+        "answer": 2,
+        "type": "object_orientation"
+    },
+    {
+        "id": 22,
+        "image": "000000014350.jpg",
+        "captions": [
+            "The two trains are perpendicular.",
+            "The two trains are intersecting.",
+            "The two trains are parallel.",
+            ""
+        ],
+        "answer": 2,
+        "type": "object_orientation"
+    },
+    {
+        "id": 23,
+        "image": "000000000641.jpg",
+        "captions": [
+            "The bus faces away from the camera.",
+            "The bus is facing straight towards the camera.",
+            "The bus faces to the right.",
+            "The bus faces to the left."
+        ],
+        "answer": 3,
+        "type": "object_orientation"
+    },
+    {
+        "id": 24,
+        "image": "000000000872.jpg",
+        "captions": [
+            "The two people in the picture look in the same direction.",
+            "The two people in the picture have their backs to each other.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 25,
+        "image": "000000001063.jpg",
+        "captions": [
+            "The giraffe looks towards the camera.",
+            "The giraffe looks to the left.",
+            "The giraffe looks to the right.",
+            "The giraffe faces away from the camera."
+        ],
+        "answer": 0,
+        "type": "object_orientation"
+    },
+    {
+        "id": 26,
+        "image": "000000001103.jpg",
+        "captions": [
+            "All the birds in the picture look to the right.",
+            "All the birds in the picture look to the left.",
+            "All the birds in the picture look towards the camera.",
+            "All the birds in the picture face away from the camera."
+        ],
+        "answer": 0,
+        "type": "object_orientation"
+    },
+    {
+        "id": 27,
+        "image": "000000004754.jpg",
+        "captions": [
+            "The four zebras in the picture look to the left.",
+            "The four zebras in the picture look to the right.",
+            "The four zebras look towards the camera.",
+            "The four zebras in the picture face away from the camera."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 28,
+        "image": "000000015690.jpg",
+        "captions": [
+            "The two elephants in the picture are facing in opposite directions.",
+            "The two elephants in the picture are facing the same direction.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 29,
+        "image": "000000016716.jpg",
+        "captions": [
+            "The zebras in the picture are all turned sideways towards the camera.",
+            "The zebras in the image are all facing directly at the camera.",
+            "The left zebra is directly facing the camera, and the other two zebras are sideways facing the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "object_orientation"
+    },
+    {
+        "id": 30,
+        "image": "000000031446.jpg",
+        "captions": [
+            "The fighters in the picture are all heading in the right direction.",
+            "The fighters in the picture are all heading in the left direction.",
+            "The fighters in the picture are all heading in the up direction.",
+            "The fighters in the picture are all heading in the down direction.."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 31,
+        "image": "000000004638.jpg",
+        "captions": [
+            "The child over the skateboard is facing the entrance of the building",
+            "The child over the skateboard is not facing the entrance of the building",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 32,
+        "image": "000000006896.jpg",
+        "captions": [
+            "Here two giraffes look to the left.",
+            "Here two giraffes look to the right.",
+            "Here two giraffes look towards the camera.",
+            "Here the two giraffes face away from the camera."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 33,
+        "image": "000000009480.jpg",
+        "captions": [
+            "Three people are sitting on the same side of the table.",
+            "Three people are sitting on two different sides of the table.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 34,
+        "image": "000000024675.jpg",
+        "captions": [
+            "The man looks to the left.",
+            "The man looks towards the camera.",
+            "The man is facing away from the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "object_orientation"
+    },
+    {
+        "id": 35,
+        "image": "000000050142.jpg",
+        "captions": [
+            "The giraffe has its back to the direction of the little girl.",
+            "The giraffe is facing the direction of the little girl.",
+            "The giraffe turned sideways in the direction of the little girl.",
+            ""
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 36,
+        "image": "000000024332.jpg",
+        "captions": [
+            "Only the front wall of the clock tower is visible.",
+            "Two walls of the clock tower can be seen in the picture.",
+            "Three walls of the clock tower are visible.",
+            "All the walls of the clock tower are visible."
+        ],
+        "answer": 1,
+        "type": "object_orientation"
+    },
+    {
+        "id": 37,
+        "image": "24688180136_d18f34e6c2_k.jpg",
+        "captions": [
+            "Two chairs in the picture are blocked from view by the table.",
+            "Four chairs in the picture are blocked from view by the table.",
+            "Six chairs in the picture are blocked from view by the table.",
+            "Eight chairs in the picture are blocked from view by the table."
+        ],
+        "answer": 3,
+        "type": "relative_depth"
+    },
+    {
+        "id": 38,
+        "image": "000000000069.jpg",
+        "captions": [
+            "The person on the far left is the same distance from the camera as the person pouring the wine.",
+            "The person on the far left is further away from the camera than the person pouring the wine.",
+            "The person on the far left is closer to the camera than the person pouring the wine.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 39,
+        "image": "000000001385.jpg",
+        "captions": [
+            "The bird on the left is furthest away from the camera.",
+            "The bird on the right is farthest from the camera.",
+            "The bird in the middle is furthest away from the camera.",
+            "The three birds are the same distance away from the camera."
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 40,
+        "image": "000000003452.jpg",
+        "captions": [
+            "Only one person is behind the white table.",
+            "Two people are behind the white table.",
+            "Three people are behind the white table.",
+            "Four people are behind the white table."
+        ],
+        "answer": 3,
+        "type": "relative_depth"
+    },
+    {
+        "id": 41,
+        "image": "000000003581.jpg",
+        "captions": [
+            "The trees are farther from the camera than the giraffes.",
+            "The trees are closer to the camera than the giraffes.",
+            "Trees are the same distance from the camera as giraffes.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 42,
+        "image": "000000048693.jpg",
+        "captions": [
+            "The teddy bear is as far away from the camera as the old man wearing glasses.",
+            "Teddy bears are farther away from the camera than older men with glasses.",
+            "Teddy bears are closer to the camera than older men with glasses.",
+            ""
+        ],
+        "answer": 2,
+        "type": "added"
+    },
+    {
+        "id": 43,
+        "image": "000000006283.jpg",
+        "captions": [
+            "The guy on the right is closer to the camera.",
+            "The guy on the right is closer to the camera.",
+            "Two boys are equally close to the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 44,
+        "image": "000000006416.jpg",
+        "captions": [
+            "The bus is further away from the camera than the street light on the left.",
+            "The bus is closer to the camera than the street light on the left.",
+            "The bus is as far away from the camera as the street light on the left.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 45,
+        "image": "000000429042.jpg",
+        "captions": [
+            "The red battery car is as close to the camera as the yellow one.",
+            "The red battery car is closer to the camera.",
+            "The yellow battery car is closer to the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 46,
+        "image": "000000009455.jpg",
+        "captions": [
+            "The skateboarder's left hand is positioned on the side of the truck.",
+            "The skateboarder's left hand is positioned away from the side of the truck.",
+            "The skateboarder's left hand is positioned near the side of the truck.",
+            "The skateboarder's left hand is positioned above the side of the truck."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 47,
+        "image": "000000002418.jpg",
+        "captions": [
+            "The person is cutting the one further away from the camera among both pizzas.",
+            "The person is cutting the one closer to the camera among both pizzas.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "type": "scene_understanding"
+    },
+    {
+        "id": 48,
+        "image": "000000009917.jpg",
+        "captions": [
+            "The street light and the bus are at the same distance from the camera.",
+            "The street light is farther away from the camera than the bus.",
+            "The street light is closer to the camera than the bus.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 49,
+        "image": "000000010835.jpg",
+        "captions": [
+            "The three seagulls are perched on wooden posts positioned on the same level.",
+            "The seagull farthest from the camera stands on the highest stake.",
+            "The seagull closest to the camera stands on the highest stake.",
+            "The seagull at a medium distance from the camera stands on the highest stake."
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 50,
+        "image": "000000010956.jpg",
+        "captions": [
+            "The person on the left is farthest from the camera.",
+            "The person in the middle is farthest from the camera.",
+            "The person on the right is farthest from the camera.",
+            "All three people are at the same distance from the camera."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 51,
+        "image": "000000011936.jpg",
+        "captions": [
+            "All the trees and branches are in front of the person in the picture.",
+            "All the trees and branches are behind the person in the picture.",
+            "Some trees and branches are in front of the person, and some are behind.",
+            "All the trees and branches are at the same distance as the person in the picture."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 52,
+        "image": "000000013041.jpg",
+        "captions": [
+            "The child with an orange shirt is closer to the ice cream truck.",
+            "The man with a blue shirt is closer to the ice cream truck.",
+            "Both the man with a blue shirt and the child with an orange shirt are at the same distance from the ice cream truck.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 53,
+        "image": "000000013288.jpg",
+        "captions": [
+            "The catcher crouching on the ground is closer to the camera.",
+            "The batter wearing a jersey with the number 24 is closer to the camera.",
+            "Both the catcher and the batter are at the same distance from the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 54,
+        "image": "000000014110.jpg",
+        "captions": [
+            "The wooden table is touching the edge of the window.",
+            "The wooden table is partially overlapping the edge of the window.",
+            "The wooden table is not touching the edge of the window.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 55,
+        "image": "000000014136.jpg",
+        "captions": [
+            "The man on the left holding the cup is closer to the camera.",
+            "The man on the right holding the cup is closer to the camera.",
+            "The man holding the cup in the middle is closer to the camera.",
+            "All the men holding the cups are at the same distance from the camera."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 56,
+        "image": "000000014580.jpg",
+        "captions": [
+            "The first aid kit is the same distance from the camera as the toilet.",
+            "The first aid kit is farther from the camera than the toilet.",
+            "The first aid kit is closer to the camera than the toilet.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 57,
+        "image": "000000015763.jpg",
+        "captions": [
+            "All people are in front of the iron fence.",
+            "Only a boy is in front of the iron fence.",
+            "There are no people in front of the iron fence.",
+            "All people are behind the iron fence."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 58,
+        "image": "000000016498.jpg",
+        "captions": [
+            "The alarm clock is as far away from the camera as the building.",
+            "The alarm clock is farther away from the camera than the building.",
+            "The alarm clock is closer to the camera than the building.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 59,
+        "image": "000000016572.jpg",
+        "captions": [
+            "The closer woman's pizza is farther away from the camera than the other pizza.",
+            "The closer woman's pizza is closer to the camera than the other pizza.",
+            "The pizza of the woman who is closer is as far away from the camera as the other pizza.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 60,
+        "image": "000000016786.jpg",
+        "captions": [
+            "The clock and the painting are as far away from the camera.",
+            "The bell is farther from the camera than the painting.",
+            "The bell is closer to the camera than the painting.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 61,
+        "image": "000000016983.jpg",
+        "captions": [
+            "The cat is further away from the camera than the umbrella.",
+            "The cat is closer to the camera than the umbrella.",
+            "The cat is as far away from the camera as the umbrella.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 62,
+        "image": "000000017161.jpg",
+        "captions": [
+            "The bottle near the right is further away from the camera.",
+            "The bottle near the left is further away from the camera.",
+            "The bottle in the picture is the same distance from the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 63,
+        "image": "000000017256.jpg",
+        "captions": [
+            "One person is outside the penalty area.",
+            "Two people are outside the penalty area.",
+            "Three people are outside the penalty area.",
+            "Four people are outside the penalty area."
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 64,
+        "image": "000000017286.jpg",
+        "captions": [
+            "The bus on the left is further away from the camera than the bus on the right.",
+            "The bus on the left is closer to the camera than the bus on the right.",
+            "The left and right buses are the same distance from the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 65,
+        "image": "000000017693.jpg",
+        "captions": [
+            "The transparent plastic box for carrots is farthest from the camera.",
+            "The yellow bottle is farthest from the camera.",
+            "The red plate is farthest from the camera.",
+            "The stainless steel basin is farthest from the camera."
+        ],
+        "answer": 3,
+        "type": "relative_depth"
+    },
+    {
+        "id": 66,
+        "image": "000000018249.jpg",
+        "captions": [
+            "The man on the left is closer to the camera.",
+            "The woman on the right is closer to the camera.",
+            "Two people are equally close to the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 67,
+        "image": "000000026154.jpg",
+        "captions": [
+            "The car is farther from the camera than the kite.",
+            "The car is closer to the camera than the kite.",
+            "The car and the kite are the same distance from the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 68,
+        "image": "000000037471.jpg",
+        "captions": [
+            "Zero vehicles in the picture are on the same lane with the tanker truck on the left side.",
+            "One vehicle in the picture is on the same lane with the tanker truck on the left side.",
+            "Two vehicles in the picture are on the same lane with the tanker truck on the left side.",
+            "None of the above."
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 69,
+        "image": "000000024066.jpg",
+        "captions": [
+            "The stroller and the man are the same distance from the camera.",
+            "The stroller is farther away from the camera than man.",
+            "The stroller is closer to the camera than the man.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 70,
+        "image": "000000024818.jpg",
+        "captions": [
+            "Girls and boys are the same distance away from the camera.",
+            "Girls are farther away from the camera than boys.",
+            "Girls are closer to the camera than boys.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 71,
+        "image": "000000024913.jpg",
+        "captions": [
+            "The Star Wars toy on the far left is closest to the camera.",
+            "The Star Wars toy on the far right is closest to the camera.",
+            "The Star Wars toy in the middle is closest to the camera.",
+            "All Star Wars toys are the same distance from the camera."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 72,
+        "image": "000000029016.jpg",
+        "captions": [
+            "All three vases are the same distance from the camera.",
+            "The vase on the far left is farthest from the camera",
+            "The vase on the far right is farthest from the camera.",
+            "The vase in the middle is farthest from the camera."
+        ],
+        "answer": 3,
+        "type": "relative_depth"
+    },
+    {
+        "id": 73,
+        "image": "000000029603.jpg",
+        "captions": [
+            "The boats are moored at the shore closer to the camera.",
+            "The boats are moored at the shore further away from the camera.",
+            "The boats are moored at the middle of both shore.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 74,
+        "image": "000000031046.jpg",
+        "captions": [
+            "The bus is farther from the camera than the white line.",
+            "The bus is closer to the camera than the white line.",
+            "The bus and the white line are at the same distance from the camera.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 75,
+        "image": "000000031198.jpg",
+        "captions": [
+            "All three birds are the same distance from the camera.",
+            "The rightmost bird in the picture is closest to the camera.",
+            "The leftmost bird in the picture is closest to the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 76,
+        "image": "000000035566.jpg",
+        "captions": [
+            "The stop sign is closer to the camera.",
+            "The stop sign and the traffic light are at the same distance from the camera.",
+            "The traffic light is closer to the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 77,
+        "image": "000000036319.jpg",
+        "captions": [
+            "The white bus and the red bus are the same distance from the camera.",
+            "The white bus is farther away from the camera than the red bus.",
+            "The white bus is closer to the camera than the red bus.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 78,
+        "image": "000000036946.jpg",
+        "captions": [
+            "The zebra in the foreground is closer to the camera.",
+            "The thick tree trunk is closer to the camera.",
+            "Both the zebra and the tree trunk are at the same distance from the camera.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 79,
+        "image": "000000038782.jpg",
+        "captions": [
+            "All the people in the picture are the same distance from the camera.",
+            "The three people on the right are closer to the camera.",
+            "The two people on the left are closer to the camera.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 80,
+        "image": "000000039461.jpg",
+        "captions": [
+            "The player away from the camera are closer to the football.",
+            "The player closer to the camera is closer to the football.",
+            "The players are the same distance from the football.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 81,
+        "image": "000000042545.jpg",
+        "captions": [
+            "The man and the cow are the same distance from the camera.",
+            "The man in the picture is further away from the camera than the cow.",
+            "The man in the picture is closer to the camera than the cow.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_depth"
+    },
+    {
+        "id": 82,
+        "image": "000000045457.jpg",
+        "captions": [
+            "A player holding a tennis racket is as close to the camera as a person wearing a red shirt.",
+            "A player holding a tennis racket is closer to the camera than someone wearing a red shirt.",
+            "A player holding a tennis racket is farther away from the camera than someone wearing a red shirt.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 83,
+        "image": "000000050042.jpg",
+        "captions": [
+            "The player holding a tennis racket is closer to the camera than the other person.",
+            "The player holding a tennis racket is further away from the camera than the other person.",
+            "The player holding a tennis racket is as close to the camera as the other person.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_depth"
+    },
+    {
+        "id": 84,
+        "image": "000000004760.jpg",
+        "captions": [
+            "The bench on the left is larger than the bench on the right.",
+            "The bench on the left is the same size as the bench on the right.",
+            "The bench on the left is smaller than the bench on the right.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 85,
+        "image": "000000004000.jpg",
+        "captions": [
+            "The mirror on the left is larger than the mirror on the right.",
+            "The mirror on the left is smaller than the mirror on the right.",
+            "The two mirrors are of the same size.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 86,
+        "image": "000000005036.jpg",
+        "captions": [
+            "The stop sign is taller than the wall next to it,",
+            "The stop sign is shorter than the wall next to it,",
+            "The stop sign and the wall next to it are of the same height.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_size"
+    },
+    {
+        "id": 87,
+        "image": "000000006045.jpg",
+        "captions": [
+            "The approximate height of the bus is 2m.",
+            "The approximate height of the bus is 3m.",
+            "The approximate height of the bus is 4m.",
+            "The approximate height of the bus is 6m."
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 88,
+        "image": "000000010700.jpg",
+        "captions": [
+            "The billboard on the left is the biggest.",
+            "All three stop signs are the same size.",
+            "The billboard on the right is the biggest.",
+            "The billboard in the middle is the biggest."
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 89,
+        "image": "000000012564.jpg",
+        "captions": [
+            "The two mirrors hanging above the sinks are the same size.",
+            "The mirror on the left is larger.",
+            "The mirror on the right is larger.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_size"
+    },
+    {
+        "id": 90,
+        "image": "000000020496.jpg",
+        "captions": [
+            "The person is taller than the refrigerator.",
+            "The refrigerator is taller than the person.",
+            "The person and the refrigerator are of the same height.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_size"
+    },
+    {
+        "id": 91,
+        "image": "000000021722.jpg",
+        "captions": [
+            "The total height of the luggage is approximately 4m.",
+            "The total height of the luggage is approximately 8m.",
+            "The total height of the luggage is approximately 15m.",
+            "The total height of the luggage is approximately 30m."
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 92,
+        "image": "000000034256.jpg",
+        "captions": [
+            "Both mirrors are of the same size.",
+            "The left mirror hanging on the wall is larger.",
+            "The mirror hanging right above the sink is larger.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 93,
+        "image": "000000045825.jpg",
+        "captions": [
+            "The glass on the left is taller.",
+            "The glass on the right is taller.",
+            "The two glasses are of same height.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 94,
+        "image": "000000011001.jpg",
+        "captions": [
+            "The blue fire hydrant is taller than the yellow taxi.",
+            "The blue fire hydrant is shorter than the yellow taxi.",
+            "The blue fire hydrant is as tall as the yellow taxi.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 95,
+        "image": "000000577614.jpg",
+        "captions": [
+            "The table on the left is the same width as the table on the right.",
+            "The table on the left is twice the size of the one on the right.",
+            "The table on the left is three times the size of the one on the right.",
+            "The table on the left is four times the size of the one on the right."
+        ],
+        "answer": 0,
+        "type": "relative_size"
+    },
+    {
+        "id": 96,
+        "image": "000000580975.jpg",
+        "captions": [
+            "The motorcycle closest to the camera is the largest.",
+            "The motorcycles in the pictures are basically the same size.",
+            "The motorcycles furthest away from the camera are the biggest.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 97,
+        "image": "000000581332.jpg",
+        "captions": [
+            "The glass on the far left is the largest.",
+            "The glass on the far left is the smallest.",
+            "The glasses in the picture are all the same size.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 98,
+        "image": "000000045825.jpg",
+        "captions": [
+            "The glass on the left is taller.",
+            "The glass on the right is taller.",
+            "The two glasses are of same height.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 99,
+        "image": "000000429042.jpg",
+        "captions": [
+            "The yellow battery car is bigger than the red battery car.",
+            "The yellow battery car is smaller than the red battery car.",
+            "The size of the two battery cars in the picture is the same.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 100,
+        "image": "000000428712.jpg",
+        "captions": [
+            "The cake farther away is lower in height.",
+            "The two white cakes in the picture are almost the same height.",
+            "The cake farther away is taller in height.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 101,
+        "image": "000000427639.jpg",
+        "captions": [
+            "There is no room for anything else in this small room.",
+            "The small room can accommodate another dog of the same size.",
+            "This small room can accommodate three more dogs of the same size..",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 102,
+        "image": "000000015690.jpg",
+        "captions": [
+            "The elephant on the left is bigger than the elephant on the right.",
+            "The two elephants in the picture are roughly the same size.",
+            "The elephant on the left is smaller than the elephant on the right.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_size"
+    },
+    {
+        "id": 103,
+        "image": "000000419854.jpg",
+        "captions": [
+            "The size of the bird standing taller is significantly smaller than that of the other bird.",
+            "The size of the bird standing taller is obviously much larger than the other bird.",
+            "The two birds in the picture are roughly the same size.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 104,
+        "image": "000000413260.jpg",
+        "captions": [
+            "The two lambs are of the same size.",
+            "The sheep on the left is obviously bigger.",
+            "The sheep on the right is obviously bigger.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_size"
+    },
+    {
+        "id": 105,
+        "image": "000000416240.jpg",
+        "captions": [
+            "The two giraffes in the picture are the same size",
+            "The giraffe closer to the camera is significantly larger than the other giraffe.",
+            "The giraffe farther away from the camera is significantly larger than the other giraffe.",
+            ""
+        ],
+        "answer": 3,
+        "type": "relative_size"
+    },
+    {
+        "id": 106,
+        "image": "000000411821.jpg",
+        "captions": [
+            "The bottom suitcase has the largest volume.",
+            "All suitcases has the same volume.",
+            "The top suitcase has the largest volume.",
+            "The middle suitcase has the largest volume."
+        ],
+        "answer": 0,
+        "type": "relative_size"
+    },
+    {
+        "id": 107,
+        "image": "000000406729.jpg",
+        "captions": [
+            "The height of the street lights in the picture is basically the same.",
+            "The street light on the right is significantly higher.",
+            "The street light on the left is significantly higher.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_size"
+    },
+    {
+        "id": 108,
+        "image": "000000402992.jpg",
+        "captions": [
+            "The cow on the left is lower in height than the cattle on the right.",
+            "The cow on the left is taller in height than the cattle on the right.",
+            "The height of the cattle in the pictures is basically the same.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 109,
+        "image": "000000400161.jpg",
+        "captions": [
+            "The leftmost pocket is the largest.",
+            "The rightmost pocket is the largest.",
+            "The four pockets in the picture are basically the same size.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_size"
+    },
+    {
+        "id": 110,
+        "image": "000000040253.jpg",
+        "captions": [
+            "The black ceramic vase on the right is the largest in volume.",
+            "The black ceramic vase on the left is the largest in volume.",
+            "All the black ceramic vases are of the same size.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 111,
+        "image": "20466773051_49fda2b130_k.jpg",
+        "captions": [
+            "The people sitting at the table are closer to the windows on the right than the building in the background.",
+            "The people sitting at the table are closer to the building in the background than the windows on the right.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 112,
+        "image": "24838280350_80564b56d1_h.jpg",
+        "captions": [
+            "Three picture frames are hung on one walls in total.",
+            "Three picture frames are hung on two walls in total.",
+            "Three picture frames are hung on three walls in total.",
+            "Three picture frames are hung on four walls in total."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 113,
+        "image": "25487110604_16535ce301_k.jpg",
+        "captions": [
+            "Three pillars in the picture are further away from the camera than the statue.",
+            "Four pillars in the picture are further away from the camera than the statue.",
+            "Five pillars in the picture are further away from the camera than the statue.",
+            "Six pillars in the picture are further away from the camera than the statue."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 114,
+        "image": "45765252481_205dcf8520_b.jpg",
+        "captions": [
+            "There is only one wall with paintings.",
+            "There are two walls with paintings.",
+            "There are three walls with paintings.",
+            "There are four walls with paintings."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 115,
+        "image": "45781337111_5d27cb0ac7_c.jpg",
+        "captions": [
+            "The window in the picture is not directly facing the door.",
+            "The window in the picture faces directly onto the door.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 116,
+        "image": "000000003853.jpg",
+        "captions": [
+            "The plane formed by the road signs points to the sky",
+            "The plane formed by the road signs forms a certain angle with the ground.",
+            "The plane formed by the road signs are perpendicular to the ground.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 117,
+        "image": "000000004790.jpg",
+        "captions": [
+            "Only one person is under the umbrellas in total.",
+            "Two people are under the umbrellas in total.",
+            "Three people are under the umbrellas in total.",
+            "Four one people are under the umbrellas in total."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 118,
+        "image": "000000005896.jpg",
+        "captions": [
+            "The yellow posts around the fire hydrant form a circle.",
+            "The yellow posts around the fire hydrant form a rectangle.",
+            "The yellow posts around the fire hydrant form a triangle.",
+            "The yellow posts around the fire hydrant form a ellipse."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 119,
+        "image": "000000046179.jpg",
+        "captions": [
+            "The taxis are arranged in a semicircular curve.",
+            "The taxis in the picture are arranged in a straight line.",
+            "The taxis in the picture are arranged in irregular diagonal lines.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 120,
+        "image": "000000006054.jpg",
+        "captions": [
+            "The dark blue bowl is in front of the brown paper bag in the middle.",
+            "The dark blue bowl is behind the brown paper bag in the middle.",
+            "The dark blue bowl is on the left side of the brown paper bag in the middle.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 121,
+        "image": "000000006492.jpg",
+        "captions": [
+            "The TV screen is oriented straight ahead, facing into the room.",
+            "The TV screen forms an angle with the mirror.",
+            "The TV screen is perpendicular to the mirror.",
+            "The TV screen is parallel with the mirror."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 122,
+        "image": "000000010700.jpg",
+        "captions": [
+            "The three stop signs are in a straight line.",
+            "The three stop signs are not in a straight line.",
+            "The stop signs are arranged in a triangular pattern.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 123,
+        "image": "000000010864.jpg",
+        "captions": [
+            "The electric wires in the air are above the buildings in the background.",
+            "The electric wires are below the buildings in the background.",
+            "The electric wires are running parallel to the buildings in the background.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 124,
+        "image": "000000012035.jpg",
+        "captions": [
+            "The long ruler is leaning against the toolbox.",
+            "The long ruler is hanging on the wall above the toolbox.",
+            "The long ruler is lying flat on the desk next to the toolbox.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 125,
+        "image": "000000012089.jpg",
+        "captions": [
+            "The brown-haired woman is holding a glass.",
+            "The brown-haired woman is not holding anything.",
+            "The brown-haired woman is holding a phone.",
+            "The brown-haired woman is holding a knife and a fork."
+        ],
+        "answer": 3,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 126,
+        "image": "000000013782.jpg",
+        "captions": [
+            "The cat is sleeping on the desk.",
+            "The cat is sleeping on the keyboard.",
+            "The cat is sleeping on the chair.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 127,
+        "image": "000000015464.jpg",
+        "captions": [
+            "All zebras are directly under the thatched-roof in the middle.",
+            "Only one zebra is not directly under the thatched-roof in the middle.",
+            "Two zebras are not directly under the thatched-roof in the middle.",
+            "Three zebras are not directly under the thatched-roof in the middle."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 128,
+        "image": "000000015740.jpg",
+        "captions": [
+            "The keyboard and monitor are on the same surface of the desk.",
+            "The keyboard is on the desk, but the monitor is on the higher surface of the desk.",
+            "The monitor is on the desk, but the keyboard is on the chair.",
+            "Neither the keyboard nor the monitor are on the desk."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 129,
+        "image": "000000015982.jpg",
+        "captions": [
+            "One person is in front of the TV closest to the camera.",
+            "Two people are in front of the TV closest to the camera.",
+            "Three people are in front of the TV closest to the camera.",
+            "Four people are in front of the TV closest to the camera."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 130,
+        "image": "000000016096.jpg",
+        "captions": [
+            "The police are lined up in front of the motorcycles.",
+            "The police are lined up behind the motorcycles.",
+            "The police are not standing in a line.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 131,
+        "image": "000000016280.jpg",
+        "captions": [
+            "The cat is leaning over a stainless steel kitchen sink.",
+            "The cat is standing on the edge of the stainless steel.",
+            "The cat is sitting in the stainless steel.",
+            "There is no cat in the image."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 132,
+        "image": "000000017631.jpg",
+        "captions": [
+            "The round mirror is hanging on the wall.",
+            "The round mirror is hanging from the ceiling.",
+            "The round mirror is not directly hanging on the wall.",
+            "The round mirror is not in the picture."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 133,
+        "image": "000000017668.jpg",
+        "captions": [
+            "The baby is holding the banana with both hands.",
+            "The baby is holding the banana with only one hand.",
+            "The baby is not holding a banana but something else.",
+            "The baby is not holding anything."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 134,
+        "image": "000000017682.jpg",
+        "captions": [
+            "Two people are inside the box drawn with white lines on the ground.",
+            "Three people are inside the box drawn with white lines on the ground.",
+            "Only one person is inside the box drawn with white lines on the ground.",
+            "There is no person inside the box drawn with white lines on the ground."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 135,
+        "image": "000000018100.jpg",
+        "captions": [
+            "One book is stacked on the edge of the laptop.",
+            "Two books are stacked on the edge of the laptop.",
+            "Three books are stacked on the edge of the laptop.",
+            "No books are stacked on the edge of the laptop."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 136,
+        "image": "000000020314.jpg",
+        "captions": [
+            "Only one wall can be seen of the structure in the background.",
+            "Two walls can be seen of the structure in the background.",
+            "Three walls can be seen of the structure in the background.",
+            "Four walls can be seen of the structure in the background."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 137,
+        "image": "000000020998.jpg",
+        "captions": [
+            "The person is standing on the left side of the counter.",
+            "The person is standing in the middle of the counter.",
+            "The person is standing on the right side of the counter.",
+            "No person is in the picture."
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 138,
+        "image": "000000021159.jpg",
+        "captions": [
+            "The man is using the phone only with his right hand.",
+            "The man is using the phone only with his left hand.",
+            "The man is using the phone with his both hands.",
+            "The man is not using a phone."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 139,
+        "image": "000000021605.jpg",
+        "captions": [
+            "The television is parallel to the bookshelf.",
+            "The television is perpendicular to the bookshelf.",
+            "The television is angled relative to the bookshelf.",
+            "The television is not in the same room as the bookshelf."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 140,
+        "image": "000000021655.jpg",
+        "captions": [
+            "No road signs are in the picture.",
+            "Both road signs are at the same distance from the camera.",
+            "The road sign on the left is closer to the camera.",
+            "The road sign on the right is closer to the camera."
+        ],
+        "answer": 3,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 141,
+        "image": "000000022190.jpg",
+        "captions": [
+            "The person's hand is directly touching the Frisbee.",
+            "The person's hand is just above the Frisbee.",
+            "The person's hand is holding the Frisbee.",
+            "The person's hand is not touching the Frisbee."
+        ],
+        "answer": 3,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 142,
+        "image": "000000022260.jpg",
+        "captions": [
+            "The vehicles are in a curved line.",
+            "The vehicles are in a straight line.",
+            "The vehicles are scattered randomly.",
+            "There are no vehicles in the picture."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 143,
+        "image": "000000023013.jpg",
+        "captions": [
+            "The green plant is placed on the kitchen counter.",
+            "The green plant is placed on the dining table.",
+            "The green plant is placed on the floor.",
+            "The green plant is not placed on the kitchen counter."
+        ],
+        "answer": 3,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 144,
+        "image": "000000023414.jpg",
+        "captions": [
+            "There are no cars behind the fire truck.",
+            "A car is directly behind the fire truck.",
+            "Two cars are directly behind the fire truck.",
+            "Three cars are directly behind the fire truck."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 145,
+        "image": "000000038782.jpg",
+        "captions": [
+            "In the picture, the five men in red are in a straight line.",
+            "In the picture, the five men in red are not in a straight line.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 146,
+        "image": "000000030582.jpg",
+        "captions": [
+            "The mouse is placed completely on the table.",
+            "The mouse is placed completely on the keyboard.",
+            "The mouse is placed suspended in the air.",
+            "The mouse is placed under the table."
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 147,
+        "image": "000000030612.jpg",
+        "captions": [
+            "No white flowers are placed in the box on the table.",
+            "Only half of the white flowers are placed in the box on the table.",
+            "All the white flowers are placed in the box on the table.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 148,
+        "image": "000000032086.jpg",
+        "captions": [
+            "Three remote controls are placed on top of other remote controls.",
+            "Four remote controls are placed on top of other remote controls.",
+            "Only one remote control is placed on top of other remote controls.",
+            "Two remote controls are placed on top of other remote controls."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 149,
+        "image": "000000034217.jpg",
+        "captions": [
+            "The frisbee is on the ground.",
+            "The frisbee is in the person's hand.",
+            "The frisbee is floating in the air.",
+            "The frisbee is directly in front of the person."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 150,
+        "image": "000000034332.jpg",
+        "captions": [
+            "The front wheel of the car is floating above the white line.",
+            "The front wheel of the car is on the white line.",
+            "The front wheel of the car is under the white line.",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 151,
+        "image": "000000034334.jpg",
+        "captions": [
+            "The red truck is parked outside the parking space.",
+            "The red truck is parked on the sidewalk.",
+            "The red truck is parked within the parking space delineated by white lines.",
+            "There is no red truck in the picture."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 152,
+        "image": "000000037218.jpg",
+        "captions": [
+            "The cat is completely lying on the skateboard.",
+            "The cat is completely not lying on the skateboard.",
+            "The cat is partially lying on the skateboard.",
+            ""
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 153,
+        "image": "000000036319.jpg",
+        "captions": [
+            "The three vehicles are aligned in a straight line.",
+            "The three vehicles are not aligned in a straight line.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 154,
+        "image": "000000040773.jpg",
+        "captions": [
+            "Both the ottoman and the wooden coffee table are directly on the floor.",
+            "The ottoman is fully on the carpet while the wooden coffee table extends beyond the edge of the carpet.",
+            "Both the ottoman and the wooden coffee table are completely on the carpet.",
+            "Both the ottoman and the wooden coffee table are partly on the carpet."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 155,
+        "image": "000000044789.jpg",
+        "captions": [
+            "The surfing board is directly behind the two people.",
+            "The surfing board is behind the two people to the right.",
+            "The surfing board is directly to the right of the two people.",
+            "The surfboard is in front of the two people to the right."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 156,
+        "image": "000000016983.jpg",
+        "captions": [
+            "The cat is lying over the umbrella.",
+            "The cat is lying under the umbrella.",
+            "The cat is lying next to the umbrella.",
+            "The cat is lying behind the umbrella."
+        ],
+        "answer": 1,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 157,
+        "image": "000000020209.jpg",
+        "captions": [
+            "Zero vehicles in the picture are on the same lane with the tanker truck on the left side.",
+            "One vehicle in the picture is on the same lane with the tanker truck on the left side.",
+            "Two vehicles in the picture are on the same lane with the tanker truck on the left side.",
+            ""
+        ],
+        "answer": 0,
+        "type": "relative_spatial_position"
+    },
+    {
+        "id": 158,
+        "image": "000000024913.jpg",
+        "captions": [
+            "There are no Star Wars toys standing on the tray.",
+            "There is one Star Wars toy standing on the tray.",
+            "There are two Star Wars toys standing on the tray.",
+            "There are more than two Star Wars toys standing on the tray."
+        ],
+        "answer": 1,
+        "type": "relative_depth"
+    },
+    {
+        "id": 159,
+        "image": "000000000001.jpg",
+        "captions": [
+            "Only one car is right under the bridge.",
+            "Two cars are right under the bridge.",
+            "Three cars are right under the bridge.",
+            "Four cars are right under the bridge."
+        ],
+        "answer": 2,
+        "type": "relative_spatial_position"
+    }
+]

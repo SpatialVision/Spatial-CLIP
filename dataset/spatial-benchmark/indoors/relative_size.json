@@ -1,0 +1,366 @@
+[
+    {
+        "id": 73,
+        "image": "73.jpg",
+        "captions": [
+            "The white iron desk on the left is taller than the wooden desk on the right.",
+            "The white iron desk on the left is shorter than the wooden desk on the right.",
+            "The white iron desk on the left is about the same height as the wooden desk on the right.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0000_00",
+        "type": ""
+    },
+    {
+        "id": 74,
+        "image": "74.jpg",
+        "captions": [
+            "The refrigerator is taller than the door on the right.",
+            "The refrigerator is shorter than the door on the right.",
+            "The refrigerator is the same height than the door on the right.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0000_00",
+        "type": ""
+    },
+    {
+        "id": 75,
+        "image": "75.jpg",
+        "captions": [
+            "The two desks in the middle are of same size.",
+            "The desk on the left is larger than the desk on the right.",
+            "The desk on the left is smaller than the desk on the right.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0001_00",
+        "type": ""
+    },
+    {
+        "id": 76,
+        "image": "76.jpg",
+        "captions": [
+            "The fan is taller than the white desk.",
+            "The fan is shorter than the white desk.",
+            "The fan and the white desk are of same height.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0002_00",
+        "type": ""
+    },
+    {
+        "id": 77,
+        "image": "77.jpg",
+        "captions": [
+            "The sink on the left is larger than the sink on the right.",
+            "The sink on the right is larger than the sink on the left.",
+            "Two sinks are of the same size.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0009_00",
+        "type": ""
+    },
+    {
+        "id": 78,
+        "image": "78.jpg",
+        "captions": [
+            "The dustbin is shorter than the desk next to it.",
+            "The dustbin is much taller than the desk next to it.",
+            "The dustbin is about the same height as the desk next to it.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0011_00",
+        "type": ""
+    },
+    {
+        "id": 79,
+        "image": "79.jpg",
+        "captions": [
+            "The mirror on the left is larger than the mirror on the right.",
+            "The right mirror is larger than the left mirror.",
+            "Two mirrors are of the same size.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0014_00",
+        "type": ""
+    },
+    {
+        "id": 80,
+        "image": "80.jpg",
+        "captions": [
+            "The upper painting is wider than the lower painting.",
+            "The upper painting is the same height as the lower painting.",
+            "There is only one painting in the image.",
+            "The height of the upper painting is about twice the height of the lower painting."
+        ],
+        "answer": 3,
+        "scene_id": "scene0031_00",
+        "type": ""
+    },
+    {
+        "id": 81,
+        "image": "81.jpg",
+        "captions": [
+            "The two bookcases are the same height.",
+            "The bookshelf closer to the camera are taller than the other bookshelf.",
+            "The bookshelf closer to the camera are shorter than the other bookshelf.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0040_00",
+        "type": ""
+    },
+    {
+        "id": 82,
+        "image": "82.jpg",
+        "captions": [
+            "The top edge of the whiteboard is higher than the top edge of the door frame.",
+            "The top edge of the whiteboard is lower than the top edge of the door frame.",
+            "The top edge of the whiteboard is on the same level as the top edge of the door frame.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0056_00",
+        "type": ""
+    },
+    {
+        "id": 83,
+        "image": "83.jpg",
+        "captions": [
+            "The left whiteboard is larger than the right whiteboard.",
+            "The whiteboard on the left is the same size as the whiteboard on the right.",
+            "The left whiteboard is smaller than the right whiteboard.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0056_00",
+        "type": ""
+    },
+    {
+        "id": 84,
+        "image": "84.jpg",
+        "captions": [
+            "The left mirror is larger than the right mirror.",
+            "The mirror on the left is smaller than the mirror on the right.",
+            "Two mirrors are of same size.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0083_01",
+        "type": ""
+    },
+    {
+        "id": 85,
+        "image": "85.jpg",
+        "captions": [
+            "The height of the office chair is lower than the height of the desk.",
+            "The height of the office chair is higher than the height of the desk.",
+            "The height of the office chair is the same as the height of the desk",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0137_01",
+        "type": ""
+    },
+    {
+        "id": 86,
+        "image": "86.jpg",
+        "captions": [
+            "The closer cabinets' height is greater than the further cabinets' height.",
+            "The closer cabinets' height is less than the further cabinets' height.",
+            "The closer cabinets' height is about the same as the further cabinets' height.",
+            "The closer cabinets' height is different with the further cabinets' height."
+        ],
+        "answer": 2,
+        "scene_id": "scene0149_00",
+        "type": ""
+    },
+    {
+        "id": 87,
+        "image": "87.jpg",
+        "captions": [
+            "The table closer to the camera is larger than the other table.",
+            "The table closer to the camera is smaller than the other table.",
+            "Both tables have the same size.",
+            "The two tables in the picture are different sizes."
+        ],
+        "answer": 2,
+        "scene_id": "scene0150_00",
+        "type": ""
+    },
+    {
+        "id": 88,
+        "image": "88.jpg",
+        "captions": [
+            "The left frame is larger than the right frame.",
+            "The left frame is smaller than the right frame.",
+            "The picture frame on the left is different in size from the picture frame on the right.",
+            "The frame on the left is the same size as the frame on the right."
+        ],
+        "answer": 3,
+        "scene_id": "scene0176_00",
+        "type": ""
+    },
+    {
+        "id": 89,
+        "image": "89.jpg",
+        "captions": [
+            "The mug is taller than the bottle of water on the right.",
+            "The mug is shorter than the bottle of water on the right.",
+            "The mug and the bottle of water is about the same height.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0183_00",
+        "type": ""
+    },
+    {
+        "id": 90,
+        "image": "90.jpg",
+        "captions": [
+            "The three whiteboards are the same size.",
+            "The leftmost of the three whiteboards is the smallest, and the rightmost is the largest.",
+            "Only the two whiteboards on the right are the same size.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0189_00",
+        "type": ""
+    },
+    {
+        "id": 91,
+        "image": "91.jpg",
+        "captions": [
+            "The plastic boxes on the shelf are smaller than the white cartons.",
+            "The plastic boxes on the shelf are bigger than the white cartons.",
+            "The plastic boxes on the shelf are about the same size as the white cartons.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0191_00",
+        "type": ""
+    },
+    {
+        "id": 92,
+        "image": "92.jpg",
+        "captions": [
+            "The left picture frame is obviously larger than the right picture frame on the left wall.",
+            "The left picture frame is obviously smaller than the right picture frame on the left wall.",
+            "Two picture frames on the left wall are about the same size.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0202_00",
+        "type": ""
+    },
+    {
+        "id": 93,
+        "image": "93.jpg",
+        "captions": [
+            "The black refrigerator is the same height as the wooden desk.",
+            "The black refrigerator is taller than the wooden desk.",
+            "The black refrigerator is shorter than the wooden desk.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0222_01",
+        "type": ""
+    },
+    {
+        "id": 94,
+        "image": "94.jpg",
+        "captions": [
+            "The two paintings on the right wall are the same size.",
+            "The picture on the left is smaller than the one on the right.",
+            "The picture on the right is smaller than the one on the left.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0239_00",
+        "type": ""
+    },
+    {
+        "id": 95,
+        "image": "95.jpg",
+        "captions": [
+            "The television and the painting on the right wall are the same size.",
+            "The television is smaller than the painting on the right wall.",
+            "The television is larger than the painting on the right wall.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0239_01",
+        "type": ""
+    },
+    {
+        "id": 96,
+        "image": "96.jpg",
+        "captions": [
+            "The wooden chair is taller than the semicircular table.",
+            "The wooden chair is shorter than the semicircular table.",
+            "The wooden chair is about the same height as the semicircular table.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0251_00",
+        "type": ""
+    },
+    {
+        "id": 97,
+        "image": "97.jpg",
+        "captions": [
+            "The three boxes on the ground are the same size.",
+            "The bottom box is the largest of the three boxes on the ground.",
+            "The box on the top is the largest of the three boxes on the ground.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0256_00",
+        "type": ""
+    },
+    {
+        "id": 98,
+        "image": "98.jpg",
+        "captions": [
+            "The washing machine closer to the camera is obviously larger than the further washing machine.",
+            "The further washing machine is larger than the washing machine closer to the camera.",
+            "The two washing machines are about the same size.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0261_01",
+        "type": ""
+    },
+    {
+        "id": 99,
+        "image": "99.jpg",
+        "captions": [
+            "The whiteboard facing the camera is larger than the one on the left.",
+            "The whiteboard facing the camera is the same size as the one on the left.",
+            "The whiteboard facing the camera is smaller than the one on the left.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0262_00",
+        "type": ""
+    },
+    {
+        "id": 100,
+        "image": "100.jpg",
+        "captions": [
+            "The two paintings on the wall are about the same size.",
+            "The painting on the left is larger than the painting on the right.",
+            "The painting on the left is smaller than the painting on the right.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0270_02",
+        "type": ""
+    }
+]

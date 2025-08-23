@@ -1,0 +1,315 @@
+[
+    {
+        "id": 1,
+        "image": "160.jpg",
+        "captions": [
+            "The fan is facing the camera.",
+            "The fan is facing the white desk.",
+            "The fan is facing the sofa.",
+            "The fan is facing the chair."
+        ],
+        "answer": 3,
+        "scene_id": "scene0002_00",
+        "type": ""
+    },
+    {
+        "id": 2,
+        "image": "900.jpg",
+        "captions": [
+            "Both the white closet and the wooden door are facing the camera.",
+            "Only the white closet is facing the camera.",
+            "Only the wooden door is facing the camera.",
+            "The white closet and the wooden door are parallel to each other."
+        ],
+        "answer": 2,
+        "scene_id": "scene0002_00",
+        "type": ""
+    },
+    {
+        "id": 3,
+        "image": "260.jpg",
+        "captions": [
+            "The two chairs are facing the same direction.",
+            "The two chairs are facing the opposite direction.",
+            "The two chairs form a slight angle towards the desk.",
+            "The two chairs are parallel to each other."
+        ],
+        "answer": 2,
+        "scene_id": "scene0005_00",
+        "type": ""
+    },
+    {
+        "id": 4,
+        "image": "740.jpg",
+        "captions": [
+            "Both chairs are facing the camera.",
+            "The two chairs are parallel to each other.",
+            "The two chairs are facing the opposite direction.",
+            "The two chairs are perpendicular to each other."
+        ],
+        "answer": 3,
+        "scene_id": "scene0006_00",
+        "type": ""
+    },
+    {
+        "id": 5,
+        "image": "280.jpg",
+        "captions": [
+            "The white cylinder is parallel to the wall.",
+            "The white cylinder is perpendicular to the ground.",
+            "The white cylinder is leaning against the wall and forming a certain angle.",
+            "The white cylinder is placed flat on the ground."
+        ],
+        "answer": 2,
+        "scene_id": "scene0007_00",
+        "type": ""
+    },
+    {
+        "id": 6,
+        "image": "2320.jpg",
+        "captions": [
+            "Two monitors are facing the same directions.",
+            "Two monitors are parallel to each other.",
+            "Two monitors are both parallel to the wall behind.",
+            "Two monitors form an angle with each other."
+        ],
+        "answer": 3,
+        "scene_id": "scene0010_00",
+        "type": ""
+    },
+    {
+        "id": 7,
+        "image": "1120.jpg",
+        "captions": [
+            "All three chairs are facing in the same direction.",
+            "One chair is facing in different direction than the other two.",
+            "All three chairs are facing in different direction.",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0012_00",
+        "type": ""
+    },
+    {
+        "id": 8,
+        "image": "1920.jpg",
+        "captions": [
+            "All the tables are parallel to the blackboard.",
+            "The table farthest from the camera is perpendicular to the blackboard.",
+            "All three tables are perpendicular to the blackboard.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0030_00",
+        "type": ""
+    },
+    {
+        "id": 9,
+        "image": "2040.jpg",
+        "captions": [
+            "All three chairs face the blackboard.",
+            "One chair faces the blackboard while two chairs face away from the blackboard.",
+            "One chair faces away from the blackboard while two chairs face the blackboard.",
+            "All three chairs face away from the blackboard."
+        ],
+        "answer": 3,
+        "scene_id": "scene0030_00",
+        "type": ""
+    },
+    {
+        "id": 10,
+        "image": "260.jpg",
+        "captions": [
+            "Both monitors are facing the same direction.",
+            "Both monitors are facing the camera.",
+            "One monitor faces the camera, the other faces the right side of the room.",
+            "One monitor faces the left side of the room, the other faces the right side of the room."
+        ],
+        "answer": 2,
+        "scene_id": "scene0040_00",
+        "type": ""
+    },
+    {
+        "id": 11,
+        "image": "900.jpg",
+        "captions": [
+            "The piano stool is parallel to the piano.",
+            "The piano stool is not parallel to the piano.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0050_00",
+        "type": ""
+    },
+    {
+        "id": 12,
+        "image": "200.jpg",
+        "captions": [
+            "All monitors are facing the camera.",
+            "All monitors are facing away from the camera.",
+            "Only some of the monitors are facing the camera.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0056_00",
+        "type": ""
+    },
+    {
+        "id": 13,
+        "image": "120.jpg",
+        "captions": [
+            "The light is hung above the mirror facing the camera.",
+            "The light is hung above the mirror facing the right of the room.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0083_01",
+        "type": ""
+    },
+    {
+        "id": 14,
+        "image": "460.jpg",
+        "captions": [
+            "Two wardrobes are parallel to each other.",
+            "Two wardrobes are vertical to each other.",
+            "The two wardrobes are not parallel and form an angle.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0093_00",
+        "type": ""
+    },
+    {
+        "id": 15,
+        "image": "940.jpg",
+        "captions": [
+            "The cabinet is vertical to the whiteboard.",
+            "The cabinet is parallel to the whiteboard.",
+            "There is a certain angle between the cabinet and the wall.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0114_00",
+        "type": ""
+    },
+    {
+        "id": 16,
+        "image": "400.jpg",
+        "captions": [
+            "Two foosball tables are placed in the same direction.",
+            "Two foosball tables are parallel to each other.",
+            "Two foosball tables are vertical to each other.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0115_00",
+        "type": ""
+    },
+    {
+        "id": 17,
+        "image": "0.jpg",
+        "captions": [
+            "All three bookshelves are not parallel to the left wall.",
+            "All three bookshelves are parallel to the left wall.",
+            "Only the bookshelf farthest from the camera is parallel to the wall on the left.",
+            "Only the bookshelf closest to the camera is parallel to the wall on the left."
+        ],
+        "answer": 3,
+        "scene_id": "scene0154_00",
+        "type": ""
+    },
+    {
+        "id": 18,
+        "image": "160.jpg",
+        "captions": [
+            "The laptop and monitor on the table are facing the screen.",
+            "The laptop and monitor on the table are facing the screen sideways.",
+            "The laptop and monitor on the table are facing the screen with their backs facing.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0207_00",
+        "type": ""
+    },
+    {
+        "id": 19,
+        "image": "680.jpg",
+        "captions": [
+            "Both the bookshelf on the left and right are placed parallel to the straight orange line on the carpet.",
+            "Only the bookshelf on the left, not the right, is placed parallel to the straight orange line on the carpet.",
+            "Only the bookshelf on the right, not the left, is placed parallel to the straight orange line on the carpet.",
+            "The bookshelves on the left and right are not placed parallel to the straight orange line on the carpet."
+        ],
+        "answer": 2,
+        "scene_id": "scene0208_00",
+        "type": ""
+    },
+    {
+        "id": 20,
+        "image": "1820.jpg",
+        "captions": [
+            "This office chair is facing the camera from the front.",
+            "The back of this office chair faces the camera.",
+            "This office chair is facing the camera sideways.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0209_01",
+        "type": ""
+    },
+    {
+        "id": 21,
+        "image": "660.jpg",
+        "captions": [
+            "The television is parallel to the mirror on the wall.",
+            "The television is parallel to the wall behind.",
+            "The television is not parallel to the wall behind.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0221_00",
+        "type": ""
+    },
+    {
+        "id": 22,
+        "image": "520.jpg",
+        "captions": [
+            "The two white doors are parallel to each other",
+            "The two white doors are not parallel to each other.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0241_00",
+        "type": ""
+    },
+    {
+        "id": 23,
+        "image": "840.jpg",
+        "captions": [
+            "The two wooden chairs are oriented parallel to each other.",
+            "The two wooden chairs are oriented perpendicular to each other.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0251_00",
+        "type": ""
+    },
+    {
+        "id": 24,
+        "image": "60.jpg",
+        "captions": [
+            "The sofa is parallel to the painting hanging on the wall.",
+            "The sofa is parallel to the wall behind.",
+            "The sofa is not parallel to the painting hanging on the wall behind.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0279_00",
+        "type": ""
+    }
+]
+

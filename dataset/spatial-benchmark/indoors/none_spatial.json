@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "image": "1.jpg",
+        "captions": [
+            "The door out of the room is open and the door to the toilet is closed.",
+            "Both the door out of the room and the door to the toilet are open.",
+            "The door out of the room is closed and the door to the toilet is open.",
+            "Both the door out of the room and the door to the toilet are closed."
+        ],
+        "answer": 2,
+        "scene_id": "scene0000_00",
+        "type": ""
+    },
+    {
+        "id": 2,
+        "image": "2.jpg",
+        "captions": [
+            "All drawers in the picture are closed.",
+            "Some drawers in the picture are slightly open.",
+            "Some drawers in the picture are wide open.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0007_00",
+        "type": ""
+    },
+    {
+        "id": 3,
+        "image": "3.jpg",
+        "captions": [
+            "The wooden door is completely closed.",
+            "The wooden door is slightly open.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0012_00",
+        "type": ""
+    },
+    {
+        "id": 4,
+        "image": "4.jpg",
+        "captions": [
+            "The door in the picture is closed.",
+            "The door in the picture is wide open.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0014_00",
+        "type": ""
+    },
+    {
+        "id": 5,
+        "image": "5.jpg",
+        "captions": [
+            "The toilet has two cubicles.",
+            "The toilet has only one cubicle.",
+            "The left cubicle is larger than the cubicle on the right.",
+            "The left cubicle is smaller than the cubicle on the right."
+        ],
+        "answer": 0,
+        "scene_id": "scene0042_00",
+        "type": ""
+    },
+    {
+        "id": 6,
+        "image": "6.jpg",
+        "captions": [
+            "There are 4 steps in total.",
+            "There are 5 steps in total.",
+            "There are 6 steps in total.",
+            "There are 7 steps in total."
+        ],
+        "answer": 2,
+        "scene_id": "scene0044_00",
+        "type": ""
+    },
+    {
+        "id": 7,
+        "image": "7.jpg",
+        "captions": [
+            "Both doors are slightly open.",
+            "The door on the left is slightly open, the door on the right is closed.",
+            "The door on the left is closed, the door on the right is slightly open.",
+            "Both doors are closed."
+        ],
+        "answer": 3,
+        "scene_id": "scene0050_00",
+        "type": ""
+    },
+    {
+        "id": 8,
+        "image": "8.jpg",
+        "captions": [
+            "The door will hit the basket full of clothes if close the door.",
+            "The door will not hit the basket full of clothes because the basket is some distance from the door.",
+            "It is unclear whether the door will hit the basket if close the door.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0051_00",
+        "type": ""
+    },
+    {
+        "id": 9,
+        "image": "9.jpg",
+        "captions": [
+            "The coffee machine is completely within the kitchen counter.",
+            "The coffee machine extends a little bit beyond the kitchen counter.",
+            "More than half of the coffee machine extends outside the kitchen counter.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0068_00",
+        "type": ""
+    },
+    {
+        "id": 10,
+        "image": "10.jpg",
+        "captions": [
+            "There is nothing in the stainless steel sink.",
+            "There is only one glass in the stainless steel sink.",
+            "There are more than one glass in the stainless steel sink.",
+            "There are some glass and ceramic cups in the stainless steel sink."
+        ],
+        "answer": 1,
+        "scene_id": "scene0068_01",
+        "type": ""
+    },
+    {
+        "id": 11,
+        "image": "11.jpg",
+        "captions": [
+            "The trophies are lined up in a straight line near the wall.",
+            "Trophies are randomly arranged on the white cabinet.",
+            "",
+            ""
+        ],
+        "answer": 0,
+        "scene_id": "scene0073_00",
+        "type": ""
+    },
+    {
+        "id": 12,
+        "image": "12.jpg",
+        "captions": [
+            "The door in the picture is closed.",
+            "The door in the picture is wide open.",
+            "The door in the picture is slightly open.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0089_00",
+        "type": ""
+    },
+    {
+        "id": 13,
+        "image": "13.jpg",
+        "captions": [
+            "All the posters in the picture are posted on the same wall.",
+            "All the posters in the picture are posted on two walls in total.",
+            "All the posters in the picture are posted on three walls in total.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0101_01",
+        "type": ""
+    },
+    {
+        "id": 14,
+        "image": "14.jpg",
+        "captions": [
+            "There is nothing on the desk closest to the camera.",
+            "There is only one laptop on the desk closest to the camera.",
+            "There is only one monitor on the desk closest to the camera.",
+            "There are some monitors on the desk closest to the camera."
+        ],
+        "answer": 0,
+        "scene_id": "scene0106_00",
+        "type": ""
+    },
+    {
+        "id": 15,
+        "image": "15.jpg",
+        "captions": [
+            "All cupboard doors are closed.",
+            "only one cupboard door is slightly open.",
+            "More than one cupboard doors are open.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0109_00",
+        "type": ""
+    },
+    {
+        "id": 16,
+        "image": "16.jpg",
+        "captions": [
+            "The empty space on the TV cabinet can hold another TV of the same size.",
+            "The empty space on the TV cabinet is not big enough for another TV of the same size.",
+            "",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0128_00",
+        "type": ""
+    },
+    {
+        "id": 17,
+        "image": "17.jpg",
+        "captions": [
+            "There are only one chair in the picture that are not placed against the wall.",
+            "There are two chairs in the picture that are not placed against the wall.",
+            "There are three chairs in the picture that are not placed against the wall.",
+            "There are four chairs in the picture that are not placed against the wall."
+        ],
+        "answer": 1,
+        "scene_id": "scene0188_00",
+        "type": ""
+    },
+    {
+        "id": 18,
+        "image": "18.jpg",
+        "captions": [
+            "There's nothing on any of the chairs.",
+            "More than one chair has something on it.",
+            "Only the chair closest to the camera has something on it, and the other chairs have nothing on them.",
+            ""
+        ],
+        "answer": 2,
+        "scene_id": "scene0189_00",
+        "type": ""
+    },
+    {
+        "id": 19,
+        "image": "19.jpg",
+        "captions": [
+            "The refrigerator is shot from below.",
+            "The refrigerator is shot from slightly above.",
+            "The refrigerator is shot from eye level view.",
+            "The refrigerator is shot from front view straight on."
+        ],
+        "answer": 1,
+        "scene_id": "scene0220_00",
+        "type": ""
+    },
+    {
+        "id": 20,
+        "image": "20.jpg",
+        "captions": [
+            "All doors of the wooden cabinet are closed.",
+            "The leftmost door of the wooden cabinet is slightly open.",
+            "The door in the middle of the wooden cabinet is slightly open.",
+            ""
+        ],
+        "answer": 1,
+        "scene_id": "scene0225_00",
+        "type": ""
+    }
+]

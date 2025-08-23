@@ -1,0 +1,3148 @@
+[
+    {
+        "id": "val_Spatial_Relation_1",
+        "image_info": {
+            "file_path": "0_1.jpg",
+            "height": 512,
+            "width": 640
+        },
+        "text_q": "Is the car beneath the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the car beneath the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_2",
+        "image_info": {
+            "file_path": "1_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the car under the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the car under the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_3",
+        "image_info": {
+            "file_path": "2_1.jpg",
+            "height": 640,
+            "width": 427
+        },
+        "text_q": "Is the bed at the right side of the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bed at the right side of the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_4",
+        "image_info": {
+            "file_path": "3_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the bowl in front of the apple?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bowl in front of the apple?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_5",
+        "image_info": {
+            "file_path": "4_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the person on top of the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person on top of the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_6",
+        "image_info": {
+            "file_path": "5_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the bicycle on the bus?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bicycle on the bus?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_7",
+        "image_info": {
+            "file_path": "6_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the person next to the banana?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person next to the banana?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_8",
+        "image_info": {
+            "file_path": "7_1.jpg",
+            "height": 482,
+            "width": 640
+        },
+        "text_q": "Is the person touching the kite?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person touching the kite?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_9",
+        "image_info": {
+            "file_path": "8_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the hair drier left of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the hair drier left of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_10",
+        "image_info": {
+            "file_path": "9_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the laptop touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the laptop touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_11",
+        "image_info": {
+            "file_path": "10_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the person on top of the elephant?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person on top of the elephant?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_12",
+        "image_info": {
+            "file_path": "11_1.jpg",
+            "height": 500,
+            "width": 401
+        },
+        "text_q": "Does the suitcase contain the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Does the suitcase contain the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_13",
+        "image_info": {
+            "file_path": "12_1.jpg",
+            "height": 428,
+            "width": 640
+        },
+        "text_q": "Is the cat touching the wine glass?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat touching the wine glass?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_14",
+        "image_info": {
+            "file_path": "13_1.jpg",
+            "height": 640,
+            "width": 383
+        },
+        "text_q": "Is the person touching the donut?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person touching the donut?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_15",
+        "image_info": {
+            "file_path": "14_1.jpg",
+            "height": 500,
+            "width": 375
+        },
+        "text_q": "Is the vase behind the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the vase behind the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_16",
+        "image_info": {
+            "file_path": "15_1.jpg",
+            "height": 469,
+            "width": 640
+        },
+        "text_q": "Is the bus parallel to the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bus parallel to the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_17",
+        "image_info": {
+            "file_path": "16_1.jpg",
+            "height": 519,
+            "width": 640
+        },
+        "text_q": "Is the dog on the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dog on the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_18",
+        "image_info": {
+            "file_path": "17_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the dining table in front of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dining table in front of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_19",
+        "image_info": {
+            "file_path": "18_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the laptop facing the chair?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the laptop facing the chair?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_20",
+        "image_info": {
+            "file_path": "19_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the laptop touching the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the laptop touching the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_21",
+        "image_info": {
+            "file_path": "20_1.jpg",
+            "height": 478,
+            "width": 640
+        },
+        "text_q": "Is the dining table under the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dining table under the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_22",
+        "image_info": {
+            "file_path": "21_1.jpg",
+            "height": 640,
+            "width": 488
+        },
+        "text_q": "Is the pizza touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the pizza touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_23",
+        "image_info": {
+            "file_path": "22_1.jpg",
+            "height": 425,
+            "width": 640
+        },
+        "text_q": "Is the umbrella on top of the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the umbrella on top of the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_24",
+        "image_info": {
+            "file_path": "23_1.jpg",
+            "height": 375,
+            "width": 500
+        },
+        "text_q": "Is the cat surrounding the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat surrounding the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_25",
+        "image_info": {
+            "file_path": "24_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the sheep outside the bottle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the sheep outside the bottle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_26",
+        "image_info": {
+            "file_path": "25_1.jpg",
+            "height": 640,
+            "width": 640
+        },
+        "text_q": "Is the motorcycle at the left side of the train?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the motorcycle at the left side of the train?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_27",
+        "image_info": {
+            "file_path": "26_1.jpg",
+            "height": 519,
+            "width": 640
+        },
+        "text_q": "Is the truck inside the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the truck inside the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_28",
+        "image_info": {
+            "file_path": "27_1.jpg",
+            "height": 321,
+            "width": 640
+        },
+        "text_q": "Is the person facing away from the horse?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person facing away from the horse?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_29",
+        "image_info": {
+            "file_path": "28_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the cat facing the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat facing the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_30",
+        "image_info": {
+            "file_path": "29_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Does the car contain the donut?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Does the car contain the donut?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_31",
+        "image_info": {
+            "file_path": "30_1.jpg",
+            "height": 478,
+            "width": 640
+        },
+        "text_q": "Is the airplane far away from the bicycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the airplane far away from the bicycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_32",
+        "image_info": {
+            "file_path": "31_1.jpg",
+            "height": 500,
+            "width": 375
+        },
+        "text_q": "Is the surfboard left of the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the surfboard left of the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_33",
+        "image_info": {
+            "file_path": "32_1.jpg",
+            "height": 437,
+            "width": 640
+        },
+        "text_q": "Is the car alongside the bus?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the car alongside the bus?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_34",
+        "image_info": {
+            "file_path": "33_1.jpg",
+            "height": 558,
+            "width": 640
+        },
+        "text_q": "Is the horse far away from the potted plant?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the horse far away from the potted plant?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_35",
+        "image_info": {
+            "file_path": "34_1.jpg",
+            "height": 426,
+            "width": 640
+        },
+        "text_q": "Is the car away from the truck?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the car away from the truck?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_36",
+        "image_info": {
+            "file_path": "35_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the boat in the tv?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the boat in the tv?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_37",
+        "image_info": {
+            "file_path": "36_1.jpg",
+            "height": 424,
+            "width": 640
+        },
+        "text_q": "Is the person facing the book?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person facing the book?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_38",
+        "image_info": {
+            "file_path": "37_1.jpg",
+            "height": 607,
+            "width": 450
+        },
+        "text_q": "Is the bowl on top of the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bowl on top of the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_39",
+        "image_info": {
+            "file_path": "38_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the bench right of the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bench right of the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_40",
+        "image_info": {
+            "file_path": "39_1.jpg",
+            "height": 375,
+            "width": 500
+        },
+        "text_q": "Is the laptop at the right side of the sandwich?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the laptop at the right side of the sandwich?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_41",
+        "image_info": {
+            "file_path": "40_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the orange at the right side of the umbrella?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the orange at the right side of the umbrella?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_42",
+        "image_info": {
+            "file_path": "41_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the cat on the chair?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat on the chair?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_43",
+        "image_info": {
+            "file_path": "42_1.jpg",
+            "height": 500,
+            "width": 375
+        },
+        "text_q": "Is the cat in the sink?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat in the sink?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_44",
+        "image_info": {
+            "file_path": "43_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the refrigerator behind the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the refrigerator behind the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_45",
+        "image_info": {
+            "file_path": "44_1.jpg",
+            "height": 425,
+            "width": 640
+        },
+        "text_q": "Does the cake consist of the truck?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Does the cake consist of the truck?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_46",
+        "image_info": {
+            "file_path": "45_1.jpg",
+            "height": 400,
+            "width": 600
+        },
+        "text_q": "Is the dog on the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dog on the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_47",
+        "image_info": {
+            "file_path": "46_1.jpg",
+            "height": 428,
+            "width": 640
+        },
+        "text_q": "Is the microwave above the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the microwave above the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_48",
+        "image_info": {
+            "file_path": "47_1.jpg",
+            "height": 600,
+            "width": 640
+        },
+        "text_q": "Is the broccoli beside the bowl?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the broccoli beside the bowl?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_49",
+        "image_info": {
+            "file_path": "48_1.jpg",
+            "height": 432,
+            "width": 640
+        },
+        "text_q": "Is the dog on top of the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dog on top of the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_50",
+        "image_info": {
+            "file_path": "49_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the sandwich at the left side of the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the sandwich at the left side of the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_51",
+        "image_info": {
+            "file_path": "50_1.jpg",
+            "height": 426,
+            "width": 640
+        },
+        "text_q": "Is the car at the back of the bicycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the car at the back of the bicycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_52",
+        "image_info": {
+            "file_path": "51_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the train far away from the stop sign?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the train far away from the stop sign?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_53",
+        "image_info": {
+            "file_path": "52_1.jpg",
+            "height": 625,
+            "width": 640
+        },
+        "text_q": "Is the orange behind the apple?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the orange behind the apple?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_54",
+        "image_info": {
+            "file_path": "53_1.jpg",
+            "height": 640,
+            "width": 431
+        },
+        "text_q": "Is the teddy bear beside the bottle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the teddy bear beside the bottle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_55",
+        "image_info": {
+            "file_path": "54_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the potted plant behind the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the potted plant behind the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_56",
+        "image_info": {
+            "file_path": "55_1.jpg",
+            "height": 640,
+            "width": 569
+        },
+        "text_q": "Does the cup contain the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Does the cup contain the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_57",
+        "image_info": {
+            "file_path": "56_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the oven behind the cake?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the oven behind the cake?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_58",
+        "image_info": {
+            "file_path": "57_1.jpg",
+            "height": 383,
+            "width": 640
+        },
+        "text_q": "Is the cat on the backpack?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat on the backpack?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_59",
+        "image_info": {
+            "file_path": "58_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the teddy bear on top of the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the teddy bear on top of the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_60",
+        "image_info": {
+            "file_path": "59_1.jpg",
+            "height": 428,
+            "width": 640
+        },
+        "text_q": "Is the sandwich touching the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the sandwich touching the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_61",
+        "image_info": {
+            "file_path": "60_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the person left of the refrigerator?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person left of the refrigerator?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_62",
+        "image_info": {
+            "file_path": "61_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the boat on the truck?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the boat on the truck?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_63",
+        "image_info": {
+            "file_path": "62_1.jpg",
+            "height": 426,
+            "width": 640
+        },
+        "text_q": "Is the teddy bear facing the book?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the teddy bear facing the book?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_64",
+        "image_info": {
+            "file_path": "63_1.jpg",
+            "height": 640,
+            "width": 494
+        },
+        "text_q": "Is the hair drier on the chair?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the hair drier on the chair?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_65",
+        "image_info": {
+            "file_path": "64_1.jpg",
+            "height": 612,
+            "width": 612
+        },
+        "text_q": "Is the hot dog far away from the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the hot dog far away from the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_66",
+        "image_info": {
+            "file_path": "65_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the umbrella behind the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the umbrella behind the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_67",
+        "image_info": {
+            "file_path": "66_1.jpg",
+            "height": 640,
+            "width": 640
+        },
+        "text_q": "Is the bicycle under the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bicycle under the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_68",
+        "image_info": {
+            "file_path": "67_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the person facing the bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person facing the bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_69",
+        "image_info": {
+            "file_path": "68_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Does the sink contain the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Does the sink contain the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_70",
+        "image_info": {
+            "file_path": "69_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Does the car contain the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Does the car contain the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_71",
+        "image_info": {
+            "file_path": "70_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the laptop opposite to the couch?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the laptop opposite to the couch?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_72",
+        "image_info": {
+            "file_path": "71_1.jpg",
+            "height": 600,
+            "width": 448
+        },
+        "text_q": "Is the cup under the cow?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cup under the cow?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_73",
+        "image_info": {
+            "file_path": "72_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the surfboard beside the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the surfboard beside the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_74",
+        "image_info": {
+            "file_path": "73_1.jpg",
+            "height": 500,
+            "width": 375
+        },
+        "text_q": "Is the fire hydrant touching the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the fire hydrant touching the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_75",
+        "image_info": {
+            "file_path": "74_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the person touching the zebra?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person touching the zebra?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_76",
+        "image_info": {
+            "file_path": "75_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the cat facing away from the toilet?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat facing away from the toilet?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_77",
+        "image_info": {
+            "file_path": "76_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the laptop a part of the cake?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the laptop a part of the cake?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_78",
+        "image_info": {
+            "file_path": "77_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the backpack on top of the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the backpack on top of the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_79",
+        "image_info": {
+            "file_path": "78_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the sandwich inside the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the sandwich inside the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_80",
+        "image_info": {
+            "file_path": "79_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the bicycle in the train?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bicycle in the train?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_81",
+        "image_info": {
+            "file_path": "80_1.jpg",
+            "height": 334,
+            "width": 500
+        },
+        "text_q": "Is the person touching the pizza?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person touching the pizza?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_82",
+        "image_info": {
+            "file_path": "81_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the sandwich touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the sandwich touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_83",
+        "image_info": {
+            "file_path": "82_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the cat next to the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat next to the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_84",
+        "image_info": {
+            "file_path": "83_1.jpg",
+            "height": 429,
+            "width": 640
+        },
+        "text_q": "Is the truck below the boat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the truck below the boat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_85",
+        "image_info": {
+            "file_path": "84_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the truck in front of the boat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the truck in front of the boat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_86",
+        "image_info": {
+            "file_path": "85_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the person at the left side of the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person at the left side of the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_87",
+        "image_info": {
+            "file_path": "86_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the truck over the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the truck over the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_88",
+        "image_info": {
+            "file_path": "87_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the cup at the left side of the bowl?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cup at the left side of the bowl?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_89",
+        "image_info": {
+            "file_path": "88_1.jpg",
+            "height": 447,
+            "width": 640
+        },
+        "text_q": "Is the dining table beneath the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dining table beneath the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_90",
+        "image_info": {
+            "file_path": "89_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the cat with the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat with the teddy bear?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_91",
+        "image_info": {
+            "file_path": "90_1.jpg",
+            "height": 483,
+            "width": 640
+        },
+        "text_q": "Is the teddy bear touching the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the teddy bear touching the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_92",
+        "image_info": {
+            "file_path": "91_1.jpg",
+            "height": 400,
+            "width": 500
+        },
+        "text_q": "Is the tv under the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the tv under the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_93",
+        "image_info": {
+            "file_path": "92_1.jpg",
+            "height": 485,
+            "width": 640
+        },
+        "text_q": "Is the cat at the left side of the pizza?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat at the left side of the pizza?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_94",
+        "image_info": {
+            "file_path": "93_1.jpg",
+            "height": 431,
+            "width": 640
+        },
+        "text_q": "Does the backpack contain the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Does the backpack contain the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_95",
+        "image_info": {
+            "file_path": "94_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the cat on top of the handbag?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat on top of the handbag?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_96",
+        "image_info": {
+            "file_path": "95_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the donut inside the bowl?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the donut inside the bowl?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_97",
+        "image_info": {
+            "file_path": "96_1.jpg",
+            "height": 470,
+            "width": 640
+        },
+        "text_q": "Is the cup beside the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cup beside the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_98",
+        "image_info": {
+            "file_path": "97_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the horse on the cake?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the horse on the cake?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_99",
+        "image_info": {
+            "file_path": "98_1.jpg",
+            "height": 640,
+            "width": 618
+        },
+        "text_q": "Is the bicycle in front of the umbrella?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bicycle in front of the umbrella?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_100",
+        "image_info": {
+            "file_path": "99_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the car perpendicular to the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the car perpendicular to the motorcycle?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_101",
+        "image_info": {
+            "file_path": "100_1.jpg",
+            "height": 640,
+            "width": 426
+        },
+        "text_q": "Is the chair under the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the chair under the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_102",
+        "image_info": {
+            "file_path": "101_1.jpg",
+            "height": 629,
+            "width": 640
+        },
+        "text_q": "Is the couch under the suitcase?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the couch under the suitcase?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_103",
+        "image_info": {
+            "file_path": "102_1.jpg",
+            "height": 547,
+            "width": 640
+        },
+        "text_q": "Is the dog touching the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dog touching the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_104",
+        "image_info": {
+            "file_path": "103_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the pizza left of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the pizza left of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_105",
+        "image_info": {
+            "file_path": "104_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the couch under the truck?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the couch under the truck?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_106",
+        "image_info": {
+            "file_path": "105_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the laptop touching the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the laptop touching the bed?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_107",
+        "image_info": {
+            "file_path": "106_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the bed beside the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bed beside the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_108",
+        "image_info": {
+            "file_path": "107_1.jpg",
+            "height": 478,
+            "width": 640
+        },
+        "text_q": "Is the dining table touching the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dining table touching the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_109",
+        "image_info": {
+            "file_path": "108_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the sandwich touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the sandwich touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_110",
+        "image_info": {
+            "file_path": "109_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the boat on the tv?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the boat on the tv?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_111",
+        "image_info": {
+            "file_path": "110_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the dining table at the right side of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dining table at the right side of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_112",
+        "image_info": {
+            "file_path": "111_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the bed under the suitcase?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bed under the suitcase?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_113",
+        "image_info": {
+            "file_path": "112_1.jpg",
+            "height": 612,
+            "width": 612
+        },
+        "text_q": "Is the dining table touching the donut?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dining table touching the donut?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_114",
+        "image_info": {
+            "file_path": "113_1.jpg",
+            "height": 500,
+            "width": 500
+        },
+        "text_q": "Is the teddy bear under the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the teddy bear under the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_115",
+        "image_info": {
+            "file_path": "114_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the chair under the horse?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the chair under the horse?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_116",
+        "image_info": {
+            "file_path": "115_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the person below the hair drier?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person below the hair drier?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_117",
+        "image_info": {
+            "file_path": "116_1.jpg",
+            "height": 492,
+            "width": 640
+        },
+        "text_q": "Is the refrigerator far from the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the refrigerator far from the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_118",
+        "image_info": {
+            "file_path": "117_1.jpg",
+            "height": 375,
+            "width": 500
+        },
+        "text_q": "Is the dog on the left side of the car?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dog on the left side of the car?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_119",
+        "image_info": {
+            "file_path": "118_1.jpg",
+            "height": 449,
+            "width": 600
+        },
+        "text_q": "Is the cat facing the keyboard?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat facing the keyboard?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_120",
+        "image_info": {
+            "file_path": "119_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the bed touching the book?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bed touching the book?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_121",
+        "image_info": {
+            "file_path": "120_1.jpg",
+            "height": 640,
+            "width": 640
+        },
+        "text_q": "Is the dining table away from the potted plant?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dining table away from the potted plant?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_122",
+        "image_info": {
+            "file_path": "121_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the bench at the left side of the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bench at the left side of the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_123",
+        "image_info": {
+            "file_path": "122_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the bed beneath the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bed beneath the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_124",
+        "image_info": {
+            "file_path": "123_1.jpg",
+            "height": 640,
+            "width": 521
+        },
+        "text_q": "Is the person at the right side of the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person at the right side of the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_125",
+        "image_info": {
+            "file_path": "124_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the person beneath the remote?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person beneath the remote?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_126",
+        "image_info": {
+            "file_path": "125_1.jpg",
+            "height": 612,
+            "width": 612
+        },
+        "text_q": "Does the oven contain the pizza?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Does the oven contain the pizza?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_127",
+        "image_info": {
+            "file_path": "126_1.jpg",
+            "height": 640,
+            "width": 427
+        },
+        "text_q": "Is the truck far away from the suitcase?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the truck far away from the suitcase?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_128",
+        "image_info": {
+            "file_path": "127_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the donut on the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the donut on the dining table?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_129",
+        "image_info": {
+            "file_path": "128_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the bowl over the sandwich?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bowl over the sandwich?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_130",
+        "image_info": {
+            "file_path": "129_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the cat facing away from the suitcase?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat facing away from the suitcase?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_131",
+        "image_info": {
+            "file_path": "130_1.jpg",
+            "height": 426,
+            "width": 640
+        },
+        "text_q": "Is the suitcase beside the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the suitcase beside the cat?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_132",
+        "image_info": {
+            "file_path": "131_1.jpg",
+            "height": 400,
+            "width": 500
+        },
+        "text_q": "Is the cat facing the refrigerator?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat facing the refrigerator?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_133",
+        "image_info": {
+            "file_path": "132_1.jpg",
+            "height": 425,
+            "width": 640
+        },
+        "text_q": "Is the banana behind the orange?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the banana behind the orange?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_134",
+        "image_info": {
+            "file_path": "133_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the car under the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the car under the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_135",
+        "image_info": {
+            "file_path": "134_1.jpg",
+            "height": 482,
+            "width": 640
+        },
+        "text_q": "Is the couch at the right side of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the couch at the right side of the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_136",
+        "image_info": {
+            "file_path": "135_1.jpg",
+            "height": 640,
+            "width": 425
+        },
+        "text_q": "Is the teddy bear on top of the cake?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the teddy bear on top of the cake?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_137",
+        "image_info": {
+            "file_path": "136_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the apple above the orange?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the apple above the orange?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_138",
+        "image_info": {
+            "file_path": "137_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the bear touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the bear touching the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_139",
+        "image_info": {
+            "file_path": "138_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the dining table touching the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the dining table touching the dog?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_140",
+        "image_info": {
+            "file_path": "139_1.jpg",
+            "height": 640,
+            "width": 480
+        },
+        "text_q": "Is the zebra by the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the zebra by the person?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(A)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_141",
+        "image_info": {
+            "file_path": "140_1.jpg",
+            "height": 640,
+            "width": 428
+        },
+        "text_q": "Is the person facing the frisbee?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person facing the frisbee?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_142",
+        "image_info": {
+            "file_path": "141_1.jpg",
+            "height": 480,
+            "width": 640
+        },
+        "text_q": "Is the cat on top of the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the cat on top of the laptop?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    },
+    {
+        "id": "val_Spatial_Relation_143",
+        "image_info": {
+            "file_path": "142_1.jpg",
+            "height": 427,
+            "width": 640
+        },
+        "text_q": "Is the person behind the cup?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B).",
+        "qa_info": "",
+        "conversations": [
+            {
+                "role": "user",
+                "value": "Is the person behind the cup?\nSelect from the following choices.\n(A) yes\n(B) no\nAnswer the question using only the options (A) or (B)."
+            },
+            {
+                "role": "assistant",
+                "value": "(B)"
+            }
+        ],
+        "bbox": [],
+        "rle": []
+    }
+]

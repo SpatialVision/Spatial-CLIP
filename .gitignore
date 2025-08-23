@@ -1,0 +1,7 @@
+checkpoint/
+dataset/flickr30k/flickr30k-images
+Depth-Anything-V2/checkpoints
+*.pth
+*.pt
+*.ckpt
+*.npz
