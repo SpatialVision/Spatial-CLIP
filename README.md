@@ -144,6 +144,7 @@ We acknowledge the contributors and the broader open-source community whose work
 
 If you find Spatial-CLIP useful, please consider citing when publishing work that builds on it. 
 
+
 ```bibtex
 @inproceedings{wang2025spatialclip,
   title={SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language},
